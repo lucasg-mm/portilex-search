@@ -51,5 +51,5 @@ exports.compile = async () => {
     entries.push(wordRec);
   }
 
-  console.dir(entries, { depth: null, colors: true });
+  return entries;
 };
