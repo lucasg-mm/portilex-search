@@ -1,6 +1,13 @@
 // requires
 const express = require("express");
 const mongoose = require("mongoose");
+const searchRouter = require("./routes/search-routes");
+const lexiconCompiler = require("./lexicon-compiler/lexicon-compiler");
+
+// compiles lexicon
+console.log("Compiling the lexicon...");
+lexiconCompiler.compile();
+console.log("Lexicon successfully compiled!");
 
 // declaring the express app
 const app = express();
@@ -22,6 +29,8 @@ mongoose
     console.log("Failed to connect to the database!");
     console.log(err);
   });
+
+app.use("/search", searchRouter);
 
 // listening on the port 5000
 app.listen(5000, () => {
