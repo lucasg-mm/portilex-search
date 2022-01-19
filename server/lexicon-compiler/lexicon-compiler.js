@@ -7,7 +7,7 @@ exports.compile = async () => {
 
   // open lexicon's master file
   let lineReaderMaster = readLine.createInterface({
-    input: fs.createReadStream("./portilex/master"),
+    input: fs.createReadStream("./portilex/WORDmaster.txt"),
   });
 
   // iterate through the master file lines (which are words)
@@ -28,14 +28,16 @@ exports.compile = async () => {
 
     // iterate through word's pos tags
     for (let posTag of posTags) {
+      let lineReaderPosTag;
       // open pos tag's file
-      let lineReaderPosTag = readLine.createInterface({
-        input: fs.createReadStream(`./portilex/${posTag}`),
+      lineReaderPosTag = readLine.createInterface({
+        input: fs.createReadStream(`./portilex/_${posTag}.tsv`),
       });
 
       // iterates through file's lines
+      let foundIt = false;
       for await (const entry of lineReaderPosTag) {
-        let [posTagWordForm, lemma, feats] = entry.split(",");
+        let [posTagWordForm, lemma, feats] = entry.split("\t");
 
         // stores word's pos tag, lemma and feature
         if (form === posTagWordForm) {
@@ -44,12 +46,18 @@ exports.compile = async () => {
             lemma: lemma,
             features: feats,
           });
+          foundIt = true;
+        } else if (foundIt) {
+          break;
         }
       }
     }
 
     entries.push(wordRec);
+    console.log(entries.length);
   }
 
-  return entries;
+  console.log("Writing compiled lexicon...");
+  fs.writeFileSync("./portilex.json", JSON.stringify(entries));
+  console.log("Lexicon compiled successfully!");
 };

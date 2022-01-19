@@ -6,8 +6,7 @@ const lexiconCompiler = require("./lexicon-compiler/lexicon-compiler");
 
 // compiles lexicon
 console.log("Compiling the lexicon...");
-lexiconCompiler.compile().then((compiledLexicon) => {
-  console.log("Compiled Lexicon: ", compiledLexicon);
+lexiconCompiler.compile().then(() => {
   // connect to MongoDB database
   const mongoUser = "root";
   const mongoPass = "example";
@@ -26,7 +25,6 @@ lexiconCompiler.compile().then((compiledLexicon) => {
       console.log(err);
     });
 });
-console.log("Lexicon successfully compiled!");
 
 // declaring the express app
 const app = express();
