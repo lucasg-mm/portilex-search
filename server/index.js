@@ -3,10 +3,11 @@ const express = require("express");
 const mongoose = require("mongoose");
 const searchRouter = require("./routes/search-routes");
 const lexiconCompiler = require("./lexicon-compiler/lexicon-compiler");
+const searchService = require("./services/search-service");
 
 // compiles lexicon
 console.log("Compiling the lexicon...");
-lexiconCompiler.compile().then(() => {
+lexiconCompiler.compile().then((lexicon) => {
   // connect to MongoDB database
   const mongoUser = "root";
   const mongoPass = "example";
@@ -17,7 +18,10 @@ lexiconCompiler.compile().then(() => {
       auth: { username: mongoUser, password: mongoPass },
       authSource: "admin",
     })
-    .then((res) => {
+    .then(async (res) => {
+      console.log(`The lexicon has ${lexicon.length} entries!`);
+      await searchService.deleteEveryWord();
+      await searchService.storeManyWords(lexicon);
       console.log("Connected successfully to the database!");
     })
     .catch((err) => {
@@ -29,6 +33,7 @@ lexiconCompiler.compile().then(() => {
 // declaring the express app
 const app = express();
 
+app.use(express.json());
 app.use("/search", searchRouter);
 
 // listening on the port 5000
