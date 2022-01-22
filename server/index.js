@@ -20,7 +20,6 @@ lexiconCompiler.compile().then((lexicon) => {
     })
     .then(async (res) => {
       console.log(`The lexicon has ${lexicon.length} entries!`);
-      await searchService.deleteEveryWord();
       await searchService.storeManyWords(lexicon);
       console.log("Connected successfully to the database!");
     })
