@@ -9,11 +9,14 @@ exports.searchWords = async (searchTerm) => {
 exports.storeManyWords = async (words) => {
   try {
     console.log("Deleting everything from database!");
-    await Word.deleteMany({}).exec();
+    try {
+      await Word.collection.drop();
+    } catch (e) {
+      console.log(e);
+    }
     console.log("Seeding database...");
-    Word.collection.insert(words, () => {
-      console.log("Database seeded");
-    });
+    await Word.collection.insert(words);
+    console.log("Database seeded");
     return;
   } catch (error) {
     // in case of error...
