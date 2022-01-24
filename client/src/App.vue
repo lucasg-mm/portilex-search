@@ -1,34 +1,49 @@
 <template>
   <div>
-    <h1>Portilexicon</h1>
-    <span class="p-input-icon-left">
-      <i class="pi pi-search" />
-      <InputText
-        type="text"
-        v-model="searchTerm"
-        placeholder="Search for a word"
-      />
-    </span>
-    <Button @click="makeSearch" label="Search" />
-    <div v-for="result in searchResults" :key="result._id">
-      <div v-for="info in result.lexicalInfo" :key="info._id">
-        <h2>{{ result.word }}</h2>
-        <b>Part-of-speech tag: </b> {{ info.posTag }}
-        <br />
-        <b>Lemma: </b> {{ info.lemma }}
-        <br />
-        <b>Features:</b> {{ info.feats }}
+    <TheNavbar></TheNavbar>
+    <div class="centered">
+      <span class="p-input-icon-left">
+        <i class="pi pi-search" />
+        <InputText
+          class="search-input"
+          type="text"
+          v-model="searchTerm"
+          placeholder="Search for a word"
+        />
+      </span>
+      <Button @click="makeSearch" label="Search" />
+      <span id="numberOfResults" v-if="madeSearch"
+        >{{ numberOfResults }} results were found</span
+      >
+      <br />
+      <div v-for="result in searchResults" :key="result._id">
+        <div v-for="info in result.lexicalInfo" :key="info._id">
+          <ResultCard class="result" :result="result" :info="info"></ResultCard>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import TheNavbar from "./components/TheNavbar.vue";
+import ResultCard from "./components/ResultCard.vue";
 import InputText from "primevue/inputtext";
 import Button from "primevue/button";
 
 export default {
-  components: { InputText, Button },
+  components: { InputText, Button, ResultCard, TheNavbar },
+
+  computed: {
+    numberOfResults() {
+      let numRes = 0;
+      for (let result of this.searchResults) {
+        numRes += result.lexicalInfo.length;
+      }
+
+      return numRes;
+    },
+  },
 
   data() {
     return {
@@ -37,6 +52,9 @@ export default {
 
       // stores the results of a search
       searchResults: [],
+
+      // tells whether the user did the search or not
+      madeSearch: false,
     };
   },
 
@@ -63,6 +81,7 @@ export default {
       const searchResults = await res.json();
 
       this.searchResults = searchResults;
+      this.madeSearch = true;
     },
   },
 };
@@ -73,5 +92,30 @@ export default {
 
 body {
   font-family: "Roboto", sans-serif;
+}
+
+#numberOfResults {
+  display: block;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  color: #495057;
+}
+
+.centered {
+  width: max-content;
+  margin-top: 90px;
+  margin-left: 100px;
+}
+
+.result {
+  border-style: solid;
+  border-width: 1px 0 0 0;
+  border-color: #e4e5e8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.search-input {
+  width: 500px;
 }
 </style>
