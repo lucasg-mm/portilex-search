@@ -157,4 +157,96 @@ body {
   margin-bottom: 50px;
   font-size: 20px;
 }
+
+@media (max-width: 300px) {
+  .search-art {
+    height: 120px;
+  }
+
+  .search-input {
+    width: 120px;
+  }
+
+  .centered {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+  }
+
+  .instructions {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 400px) {
+  .search-art {
+    height: 150px;
+  }
+
+  .search-input {
+    width: 180px;
+  }
+
+  .centered {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+  }
+
+  .instructions {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 500px) {
+  .search-input {
+    width: 200px;
+  }
+
+  .search-art {
+    height: 250px;
+  }
+
+  .centered {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+  }
+
+  .instructions {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 800px) {
+  .search-input {
+    width: 250px;
+  }
+
+  .search-art {
+    height: 250px;
+  }
+
+  .centered {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+  }
+
+  .instructions {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+  }
+}
 </style>
