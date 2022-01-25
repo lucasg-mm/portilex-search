@@ -1,6 +1,6 @@
 <template>
   <div>
-    <TheNavbar></TheNavbar>
+    <TheNavbar :isLoading="isLoading"></TheNavbar>
     <div class="centered">
       <span class="p-input-icon-left input-wrapper">
         <i class="pi pi-search" />
@@ -63,6 +63,9 @@ export default {
 
       // tells whether the user did the search or not
       madeSearch: false,
+
+      // tells whether the app is loading or not
+      isLoading: false,
     };
   },
 
@@ -76,6 +79,7 @@ export default {
       });
 
       // makes the request
+      this.isLoading = true;
       const res = await fetch(searchUrl, {
         method: "POST",
         headers: {
@@ -90,6 +94,7 @@ export default {
 
       this.searchResults = searchResults;
       this.madeSearch = true;
+      this.isLoading = false;
     },
   },
 };
@@ -98,8 +103,13 @@ export default {
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
+html,
 body {
   font-family: "Roboto", sans-serif;
+  min-height: 100%;
+  min-width: 100%;
+  margin: 0;
+  background-color: #fff;
 }
 
 #numberOfResults {

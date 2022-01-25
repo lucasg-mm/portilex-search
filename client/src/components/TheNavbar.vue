@@ -1,5 +1,7 @@
 <template>
   <div class="fixed">
+    <ProgressBar v-if="isLoading" mode="indeterminate" />
+
     <div class="with-divisor">
       <Menubar class="navbar">
         <template #start>
@@ -14,11 +16,15 @@
 
 <script>
 import Menubar from "primevue/menubar";
+import ProgressBar from "primevue/progressbar";
 
 export default {
   components: {
     Menubar,
+    ProgressBar,
   },
+
+  props: ["isLoading"],
 
   computed: {
     siteUrl() {
