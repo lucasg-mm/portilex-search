@@ -16,6 +16,12 @@
         >{{ numberOfResults }} results were found</span
       >
       <br />
+      <div v-if="!madeSearch" class="instructions-panel">
+        <div class="instructions">
+          Use the field above to search for a word in the lexicon.
+        </div>
+        <img class="search-art" src="./assets/search.svg" />
+      </div>
       <div v-for="result in searchResults" :key="result._id">
         <div v-for="info in result.lexicalInfo" :key="info._id">
           <ResultCard class="result" :result="result" :info="info"></ResultCard>
@@ -122,5 +128,20 @@ body {
 
 .search-input {
   width: 500px;
+}
+
+.search-art {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 350px;
+}
+
+.instructions {
+  text-align: center;
+  color: #495057;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 20px;
 }
 </style>
