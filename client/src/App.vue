@@ -2,7 +2,7 @@
   <div>
     <TheNavbar></TheNavbar>
     <div class="centered">
-      <span class="p-input-icon-left">
+      <span class="p-input-icon-left input-wrapper">
         <i class="pi pi-search" />
         <InputText
           class="search-input"
@@ -99,6 +99,7 @@ body {
   margin-top: 25px;
   margin-bottom: 10px;
   color: #495057;
+  font-size: 12px;
 }
 
 .centered {
@@ -113,6 +114,10 @@ body {
   border-color: #e4e5e8;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.input-wrapper {
+  margin-right: 10px;
 }
 
 .search-input {
