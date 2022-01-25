@@ -2,8 +2,10 @@
   <div class="nav">
     <div class="with-divisor">
       <span class="license-line">
-        <img class="cc-logo" src="../assets/by.svg" /> Licensed under CC BY
-        4.0</span
+        <img class="cc-logo" src="../assets/by.svg" /> Licensed under
+        <a href="https://creativecommons.org/licenses/by/4.0/"
+          >CC BY 4.0</a
+        ></span
       >
       <span
         >v1.0.0 – made with 💙 by
