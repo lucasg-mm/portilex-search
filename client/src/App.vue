@@ -28,17 +28,19 @@
         </div>
       </div>
     </div>
+    <TheFooter></TheFooter>
   </div>
 </template>
 
 <script>
 import TheNavbar from "./components/TheNavbar.vue";
+import TheFooter from "./components/TheFooter.vue";
 import ResultCard from "./components/ResultCard.vue";
 import InputText from "primevue/inputtext";
 import Button from "primevue/button";
 
 export default {
-  components: { InputText, Button, ResultCard, TheNavbar },
+  components: { InputText, Button, ResultCard, TheNavbar, TheFooter },
 
   computed: {
     numberOfResults() {
@@ -105,13 +107,14 @@ body {
   margin-top: 25px;
   margin-bottom: 10px;
   color: #495057;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .centered {
   width: max-content;
   margin-top: 90px;
   margin-left: 100px;
+  margin-bottom: 100px;
 }
 
 .result {
