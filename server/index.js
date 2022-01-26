@@ -2,6 +2,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const searchRouter = require("./routes/search-routes");
+const lexiconRouter = require("./routes/lexicon-routes");
 const lexiconCompiler = require("./lexicon-compiler/lexicon-compiler");
 const lexiconCompressor = require("./lexicon-compiler/lexicon-compressor");
 const searchService = require("./services/search-service");
@@ -40,6 +41,7 @@ const app = express();
 
 app.use(express.json());
 app.use("/search", searchRouter);
+app.use("/lexicon", lexiconRouter);
 
 // listening on the port 5000
 app.listen(5000, () => {
