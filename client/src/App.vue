@@ -179,6 +179,10 @@ body {
     margin-right: auto;
     width: 80px;
   }
+
+  .result {
+    width: 50px;
+  }
 }
 
 @media (min-width: 300px) and (max-width: 400px) {
@@ -201,6 +205,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 200px;
+  }
+
+  .result {
+    width: 150px;
   }
 }
 
@@ -225,6 +233,10 @@ body {
     margin-right: auto;
     width: 200px;
   }
+
+  .result {
+    width: 200px;
+  }
 }
 
 @media (min-width: 500px) and (max-width: 800px) {
@@ -247,6 +259,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 300px;
+  }
+
+  .result {
+    width: 250px;
   }
 }
 </style>
