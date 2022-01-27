@@ -7,7 +7,7 @@
         <template #start>
           <a :href="siteUrl">
             <h1 id="logo">
-              Portilexicon
+              PortiLexicon-UD
               <span class="slogan">
                 a lexicon for Brazilian Portuguese according to Universal
                 Dependencies</span
