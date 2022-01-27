@@ -1,6 +1,14 @@
 <template>
   <div class="nav">
     <div class="with-divisor">
+      <span class="download-line">
+        <Button
+          @click="downloadLexicon"
+          label="Download Lexicon"
+          class="p-button-success p-button-sm"
+          icon="pi pi-download"
+        />
+      </span>
       <span class="license-line">
         <img class="cc-logo" src="../assets/by.svg" /> Licensed under
         <a href="https://creativecommons.org/licenses/by/4.0/"
@@ -16,10 +24,28 @@
 </template>
 
 <script>
-export default {};
+import Button from "primevue/button";
+
+export default {
+  components: { Button },
+  methods: {
+    // initializes the download of the whole uploaded treebank
+    async downloadLexicon() {
+      // mounts the download URL
+      const downloadUrl = process.env.VUE_APP_URL + "api/lexicon/download";
+
+      window.open(downloadUrl, "_blank");
+    },
+  },
+};
 </script>
 
 <style scoped>
+.download-line {
+  display: block;
+  margin-bottom: 20px;
+}
+
 .license-line {
   display: block;
   margin-bottom: 20px;
