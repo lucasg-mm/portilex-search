@@ -6,7 +6,13 @@
       <Menubar class="navbar">
         <template #start>
           <a :href="siteUrl">
-            <h1 id="logo">Portilexicon</h1>
+            <h1 id="logo">
+              Portilexicon
+              <span class="slogan">
+                a lexicon for Brazilian Portuguese according to Universal
+                Dependencies</span
+              >
+            </h1>
           </a>
         </template>
       </Menubar>
@@ -35,6 +41,11 @@ export default {
 </script>
 
 <style scoped>
+.slogan {
+  font-size: 12px;
+  color: #495057;
+}
+
 .fixed {
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
@@ -79,5 +90,11 @@ a:hover {
 
 a:active {
   text-decoration: none;
+}
+
+@media (max-width: 800px) {
+  .slogan {
+    display: none;
+  }
 }
 </style>
