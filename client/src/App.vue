@@ -12,7 +12,7 @@
         />
       </span>
       <Button @click="makeSearch" label="Search" />
-      <span id="numberOfResults" v-if="madeSearch"
+      <span id="numberOfResults" v-if="madeSearch && numberOfResults !== 0"
         >{{ numberOfResults }} results were found</span
       >
       <br />
@@ -20,7 +20,14 @@
         <div class="instructions">
           Use the field above to search for a word in the lexicon.
         </div>
-        <img class="search-art" src="./assets/search.svg" />
+        <img class="art" src="./assets/search.svg" />
+      </div>
+      <div
+        v-if="madeSearch && numberOfResults === 0"
+        class="instructions-panel"
+      >
+        <div class="instructions">Nothing found</div>
+        <img class="art" src="./assets/void.svg" />
       </div>
       <div v-for="result in searchResults" :key="result._id">
         <div v-for="info in result.lexicalInfo" :key="info._id">
@@ -143,7 +150,7 @@ body {
   width: 500px;
 }
 
-.search-art {
+.art {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -159,7 +166,7 @@ body {
 }
 
 @media (max-width: 300px) {
-  .search-art {
+  .art {
     height: 120px;
   }
 
@@ -186,7 +193,7 @@ body {
 }
 
 @media (min-width: 300px) and (max-width: 400px) {
-  .search-art {
+  .art {
     height: 150px;
   }
 
@@ -217,7 +224,7 @@ body {
     width: 200px;
   }
 
-  .search-art {
+  .art {
     height: 250px;
   }
 
@@ -244,7 +251,7 @@ body {
     width: 250px;
   }
 
-  .search-art {
+  .art {
     height: 250px;
   }
 
