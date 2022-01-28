@@ -15,7 +15,7 @@ services:
       - client
     restart: always
   mongo:
-    image: mongo
+    image: mongo:4.4.12
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: example

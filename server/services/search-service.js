@@ -12,7 +12,7 @@ exports.storeManyWords = async (words) => {
     try {
       await Word.collection.drop();
     } catch (e) {
-      console.log(e);
+      console.log("The database does not exist, let's create it!");
     }
     console.log("Seeding database...");
     await Word.collection.insert(words);
