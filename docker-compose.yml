@@ -1,0 +1,50 @@
+version: "3"
+services:
+  nginx:
+    image: "lucasgmm20/portilex-proxy"
+    build:
+      dockerfile: Dockerfile
+      context: ./nginx
+    volumes:
+      - ./nginx/my-site.com.crt:/etc/nginx/my-site.com.crt # certificate
+      - ./nginx/my-site.com.key:/etc/nginx/my-site.com.key # key
+    ports:
+      - "5000:443"
+    depends_on:
+      - server
+      - client
+    restart: always
+  mongo:
+    image: mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    expose:
+      - "27017"  
+    restart: always  
+  server:
+    image: lucasgmm20/portilex-server
+    build:
+      dockerfile: Dockerfile
+      context: "./server"
+    volumes:
+      - "./server:/app"
+      - "/app/node_modules"
+    expose:
+      - "5000"
+    depends_on:
+      - mongo
+    restart: always
+  client:
+    image: lucasgmm20/portilex-client
+    build:
+      dockerfile: Dockerfile
+      context: "./client"
+    volumes:
+      - "./client:/app"
+      - "/app/node_modules"
+    expose:
+      - "8080"
+    depends_on:
+      - server
+    restart: always
