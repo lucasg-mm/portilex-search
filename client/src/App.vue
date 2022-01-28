@@ -96,11 +96,22 @@ export default {
         body: reqBody,
       });
 
-      // parses results to javascript object
       const searchResults = await res.json();
-
-      this.searchResults = searchResults;
-      this.madeSearch = true;
+      if (res.status === 200) {
+        // request was successful
+        // parses results to javascript object
+        this.searchResults = searchResults;
+        this.madeSearch = true;
+      } else {
+        // request failed
+        // shows message
+        this.$toast.add({
+          severity: "error",
+          summary: "Error",
+          detail: searchResults.message,
+          life: 4000,
+        });
+      }
       this.isLoading = false;
     },
   },
