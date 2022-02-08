@@ -5,7 +5,7 @@
         <Button
           @click="downloadLexicon"
           label="Download Lexicon"
-          class="p-button-success p-button-sm"
+          class="p-button-sm"
           icon="pi pi-download"
         />
       </span>
