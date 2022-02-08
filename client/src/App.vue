@@ -11,7 +11,7 @@
           placeholder="Search for a word"
         />
       </span>
-      <Button @click="makeSearch" label="Search" />
+      <Button @click="makeSearch" label="Search Word" />
       <span id="numberOfResults" v-if="madeSearch && numberOfResults !== 0"
         >{{ numberOfResults }} results were found</span
       >
@@ -26,7 +26,14 @@
         v-if="madeSearch && numberOfResults === 0"
         class="instructions-panel"
       >
-        <div class="instructions">Nothing found</div>
+        <div class="not-found">
+          <b>Your search did not find any result!</b>
+        </div>
+
+        <div class="instructions">
+          PortiLexicon-UD under construction, so this word might still be added
+          to the lexicon in a future version.
+        </div>
         <img class="art" src="./assets/void.svg" />
       </div>
       <div v-for="result in searchResults" :key="result._id">
@@ -168,12 +175,27 @@ body {
   height: 350px;
 }
 
-.instructions {
+.not-found {
   text-align: center;
   color: #495057;
   margin-top: 50px;
   margin-bottom: 50px;
   font-size: 20px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.instructions {
+  text-align: center;
+  color: #495057;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 18px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 30px;
 }
 
 @media (max-width: 300px) {

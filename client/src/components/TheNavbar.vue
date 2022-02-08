@@ -42,7 +42,7 @@ export default {
 
 <style scoped>
 .slogan {
-  font-size: 12px;
+  font-size: 15px;
   color: #495057;
 }
 
@@ -63,13 +63,13 @@ export default {
 }
 
 .navbar {
-  height: 50px;
+  height: 60px;
   border-radius: 0;
   border-width: 0 0 1px 0;
   border-color: #e4e5e8;
   background-color: white;
   color: black;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #logo {
