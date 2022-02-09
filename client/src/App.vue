@@ -2,37 +2,44 @@
   <div>
     <TheNavbar :isLoading="isLoading"></TheNavbar>
     <div class="centered">
-      <span class="p-input-icon-left input-wrapper">
-        <i class="pi pi-search" />
-        <InputText
-          class="search-input"
-          type="text"
-          v-model="searchTerm"
-          placeholder="Search for a word"
-        />
-      </span>
-      <Button @click="makeSearch" label="Search Word" />
+      <div v-if="!madeSearch" class="instructions-panel">
+        <div class="instructions">
+          <b
+            >The PortiLexicon-UD lexicon contains 1.2 million word forms in
+            Portuguese, presented with their respective morphological and
+            morphosyntactic classifications, using the set of labels from the
+            Universal Dependencies framework.</b
+          >
+        </div>
+        <img class="art" src="./assets/logo-ud.png" />
+        <div class="instructions">
+          Use the field below to search for a word in the lexicon.
+        </div>
+      </div>
+      <div class="search-set">
+        <span class="p-input-icon-left input-wrapper">
+          <i class="pi pi-search" />
+          <InputText
+            class="search-input"
+            type="text"
+            v-model="searchTerm"
+            placeholder="Search for a word"
+          />
+        </span>
+        <Button @click="makeSearch" label="Search Word" />
+      </div>
       <span id="numberOfResults" v-if="madeSearch && numberOfResults !== 0"
         >{{ numberOfResults }} results were found</span
       >
       <br />
-      <div v-if="!madeSearch" class="instructions-panel">
-        <div class="instructions">
-          Use the field above to search for a word in the lexicon.
-        </div>
-        <img class="art" src="./assets/search.svg" />
-      </div>
-      <div
-        v-if="madeSearch && numberOfResults === 0"
-        class="instructions-panel"
-      >
+      <div v-if="madeSearch && numberOfResults === 0">
         <div class="not-found">
           <b>Your search did not find any result!</b>
         </div>
 
         <div class="instructions">
-          PortiLexicon-UD under construction, so this word might still be added
-          to the lexicon in a future version.
+          PortiLexicon-UD is still under construction, so this word might be
+          added to the lexicon in a future version.
         </div>
         <img class="art" src="./assets/void.svg" />
       </div>
@@ -42,6 +49,12 @@
         </div>
       </div>
     </div>
+    <Button
+      @click="downloadLexicon"
+      label="Download Lexicon"
+      class="p-button-sm"
+      icon="pi pi-download"
+    />
     <TheFooter></TheFooter>
   </div>
 </template>
@@ -84,6 +97,14 @@ export default {
   },
 
   methods: {
+    // initializes the download of the whole uploaded treebank
+    async downloadLexicon() {
+      // mounts the download URL
+      const downloadUrl = process.env.VUE_APP_URL + "api/lexicon/download";
+
+      window.open(downloadUrl, "_blank");
+    },
+
     // makes a search in the lexicon
     async makeSearch() {
       // get url and request's body
@@ -170,9 +191,8 @@ body {
 
 .art {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 350px;
+  height: 250px;
+  margin: 60px auto 60px auto;
 }
 
 .not-found {
@@ -192,10 +212,15 @@ body {
   margin-top: 50px;
   margin-bottom: 50px;
   font-size: 18px;
-  width: 400px;
+  width: 650px;
   margin-left: auto;
   margin-right: auto;
-  line-height: 30px;
+  line-height: 35px;
+}
+
+.search-set {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (max-width: 300px) {
