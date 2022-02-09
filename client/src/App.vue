@@ -49,25 +49,28 @@
         </div>
       </div>
     </div>
-    <Button
-      @click="downloadLexicon"
-      label="Download Lexicon"
-      class="p-button-sm"
-      icon="pi pi-download"
-    />
+    <AdditionalInfo></AdditionalInfo>
     <TheFooter></TheFooter>
   </div>
 </template>
 
 <script>
 import TheNavbar from "./components/TheNavbar.vue";
+import AdditionalInfo from "./components/AdditionalInfo.vue";
 import TheFooter from "./components/TheFooter.vue";
 import ResultCard from "./components/ResultCard.vue";
 import InputText from "primevue/inputtext";
 import Button from "primevue/button";
 
 export default {
-  components: { InputText, Button, ResultCard, TheNavbar, TheFooter },
+  components: {
+    InputText,
+    Button,
+    ResultCard,
+    TheNavbar,
+    TheFooter,
+    AdditionalInfo,
+  },
 
   computed: {
     numberOfResults() {
@@ -97,14 +100,6 @@ export default {
   },
 
   methods: {
-    // initializes the download of the whole uploaded treebank
-    async downloadLexicon() {
-      // mounts the download URL
-      const downloadUrl = process.env.VUE_APP_URL + "api/lexicon/download";
-
-      window.open(downloadUrl, "_blank");
-    },
-
     // makes a search in the lexicon
     async makeSearch() {
       // get url and request's body
@@ -146,7 +141,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 html,
@@ -167,6 +162,7 @@ body {
 }
 
 .centered {
+  font-family: "Roboto", sans-serif;
   width: max-content;
   margin-top: 90px;
   margin-left: 100px;

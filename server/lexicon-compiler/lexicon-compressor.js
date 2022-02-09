@@ -20,7 +20,7 @@ exports.compress = async () => {
     for await (const entry of lineReader) {
       const [form, lemma, feats] = entry.split("\t");
 
-      fileText.push(`${form}\t${posTag}\t${lemma}\t${feats}\n`);
+      fileText.push(`${form}\t${lemma}\t${posTag}\t${feats}\n`);
     }
   }
 
