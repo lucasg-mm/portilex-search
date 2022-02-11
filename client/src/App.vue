@@ -164,7 +164,7 @@ body {
 .centered {
   font-family: "Roboto", sans-serif;
   width: max-content;
-  margin-top: 90px;
+  margin-top: 110px;
   margin-left: 100px;
   margin-bottom: 100px;
 }
@@ -187,7 +187,7 @@ body {
 
 .art {
   display: block;
-  height: 250px;
+  height: 200px;
   margin: 60px auto 60px auto;
 }
 
@@ -279,7 +279,7 @@ body {
   }
 
   .art {
-    height: 250px;
+    height: 150px;
   }
 
   .centered {
@@ -306,7 +306,7 @@ body {
   }
 
   .art {
-    height: 250px;
+    height: 150px;
   }
 
   .centered {
