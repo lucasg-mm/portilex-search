@@ -20,13 +20,13 @@
         <span class="p-input-icon-left input-wrapper">
           <i class="pi pi-search" />
           <InputText
-            class="search-input"
+            class="search-input p-inputtext-lg"
             type="text"
             v-model="searchTerm"
             placeholder="Search for a word"
           />
         </span>
-        <Button @click="makeSearch" label="Search Word" />
+        <Button @click="makeSearch" label="Search Word" class="p-button-lg" />
       </div>
       <span id="numberOfResults" v-if="madeSearch && numberOfResults !== 0"
         >{{ numberOfResults }} results were found</span

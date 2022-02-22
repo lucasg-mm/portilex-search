@@ -49,7 +49,7 @@ export default {
 .instructions {
   text-align: center;
   color: #495057;
-  font-size: 16px;
+  font-size: 15px;
   margin: 0 auto 20px auto;
   line-height: 35px;
 }
@@ -75,7 +75,7 @@ export default {
 }
 
 .with-divisor {
-  padding: 50px 0 50px 0;
+  padding: 30px 0 30px 0;
   margin: 0px 40px;
   border-top: 1px solid;
   border-color: #e4e5e8;
