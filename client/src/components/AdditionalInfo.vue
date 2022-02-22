@@ -2,13 +2,22 @@
   <div class="nav">
     <div class="with-divisor">
       <div class="instructions">
-        <b>You can also download the lexicon as a single .tsv file</b>
+        <b>Download the lexicon as a single .tsv file</b>
       </div>
       <Button
         @click="downloadLexicon"
         label="Download Lexicon"
         class="p-button-sm"
         icon="pi pi-download"
+      />
+      <div class="instructions with-margin-top">
+        <b>Suggest words to be included in a future version</b>
+      </div>
+      <Button
+        @click="goToPage('https://forms.gle/qYC9pgwcgi7C1YQR9')"
+        label="Suggest words"
+        class="p-button-sm"
+        icon="pi pi-plus-circle"
       />
     </div>
   </div>
@@ -22,6 +31,10 @@ export default {
 
   // initializes the download of the whole uploaded treebank
   methods: {
+    goToPage(url) {
+      window.open(url, "_blank");
+    },
+
     async downloadLexicon() {
       // mounts the download URL
       const downloadUrl = process.env.VUE_APP_URL + "api/lexicon/download";
@@ -39,6 +52,10 @@ export default {
   font-size: 16px;
   margin: 0 auto 20px auto;
   line-height: 35px;
+}
+
+.with-margin-top {
+  margin-top: 30px;
 }
 
 .license-line {

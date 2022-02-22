@@ -39,7 +39,10 @@
 
         <div class="instructions">
           PortiLexicon-UD is still under construction, so this word might be
-          added to the lexicon in a future version.
+          added to the lexicon in a future version. Please, suggest it in our
+          <a href="https://forms.gle/qYC9pgwcgi7C1YQR9" target="_blank"
+            >word suggestion box</a
+          >.
         </div>
         <img class="art" src="./assets/void.svg" />
       </div>
