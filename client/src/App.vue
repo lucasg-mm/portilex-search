@@ -12,8 +12,11 @@
                   >The PortiLexicon-UD lexicon contains over 1.2 million word
                   forms in Portuguese, presented with their respective
                   morphological and morphosyntactic classifications, using the
-                  set of labels from the Universal Dependencies framework.
-                  PortiLexicon-UD is based on
+                  set of labels from the
+                  <a href="https://universaldependencies.org/"
+                    >Universal Dependencies</a
+                  >
+                  framework. PortiLexicon-UD is based on
                   <a
                     href="http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/index.html"
                     >Unitex-PB</a
