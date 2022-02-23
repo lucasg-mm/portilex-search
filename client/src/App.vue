@@ -5,8 +5,10 @@
       <div v-if="!madeSearch" class="instructions-panel">
         <table>
           <tr>
-            <td><img class="art-initial" src="./assets/logo-ud.png" /></td>
-            <td>
+            <td class="responsive-td">
+              <img class="art-initial" src="./assets/logo-ud.png" />
+            </td>
+            <td class="responsive-td">
               <div class="instructions-initial">
                 <b
                   >The PortiLexicon-UD lexicon contains over 1.2 million word
@@ -256,6 +258,11 @@ body {
 }
 
 @media (max-width: 300px) {
+  .responsive-td {
+    display: block;
+    text-align: center;
+  }
+
   .art {
     height: 120px;
   }
@@ -277,12 +284,21 @@ body {
     width: 80px;
   }
 
+  .instructions-initial {
+    width: 200px;
+  }
+
   .result {
     width: 50px;
   }
 }
 
 @media (min-width: 300px) and (max-width: 400px) {
+  .responsive-td {
+    display: block;
+    text-align: center;
+  }
+
   .art {
     height: 150px;
   }
@@ -301,7 +317,11 @@ body {
   .instructions {
     margin-left: auto;
     margin-right: auto;
-    width: 200px;
+    width: 300px;
+  }
+
+  .instructions-initial {
+    width: 250px;
   }
 
   .result {
@@ -310,6 +330,11 @@ body {
 }
 
 @media (min-width: 400px) and (max-width: 500px) {
+  .responsive-td {
+    display: block;
+    text-align: center;
+  }
+
   .search-input {
     width: 200px;
   }
@@ -329,6 +354,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 200px;
+  }
+
+  .instructions-initial {
+    width: 300px;
   }
 
   .result {
