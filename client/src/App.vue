@@ -3,15 +3,21 @@
     <TheNavbar :isLoading="isLoading"></TheNavbar>
     <div class="centered">
       <div v-if="!madeSearch" class="instructions-panel">
-        <div class="instructions">
-          <b
-            >The PortiLexicon-UD lexicon contains 1.2 million word forms in
-            Portuguese, presented with their respective morphological and
-            morphosyntactic classifications, using the set of labels from the
-            Universal Dependencies framework.</b
-          >
-        </div>
-        <img class="art" src="./assets/logo-ud.png" />
+        <table>
+          <tr>
+            <td><img class="art-initial" src="./assets/logo-ud.png" /></td>
+            <td>
+              <div class="instructions-initial">
+                <b
+                  >The PortiLexicon-UD lexicon contains 1.2 million word forms
+                  in Portuguese, presented with their respective morphological
+                  and morphosyntactic classifications, using the set of labels
+                  from the Universal Dependencies framework.</b
+                >
+              </div>
+            </td>
+          </tr>
+        </table>
         <div class="instructions">
           Use the field below to search for a word in the lexicon.
         </div>
@@ -194,6 +200,10 @@ body {
   margin: 60px auto 60px auto;
 }
 
+.art-initial {
+  height: 140px;
+}
+
 .not-found {
   text-align: center;
   color: #495057;
@@ -217,7 +227,17 @@ body {
   line-height: 35px;
 }
 
+.instructions-initial {
+  text-align: left;
+  color: #495057;
+  font-size: 18px;
+  width: 650px;
+  line-height: 35px;
+  margin-left: 40px;
+}
+
 .search-set {
+  width: fit-content;
   margin-left: auto;
   margin-right: auto;
 }
