@@ -2,41 +2,6 @@
   <div>
     <TheNavbar :isLoading="isLoading"></TheNavbar>
     <div class="centered">
-      <div v-if="!madeSearch" class="instructions-panel">
-        <table>
-          <tr>
-            <td class="responsive-td">
-              <img class="art-initial" src="./assets/logo-ud.png" />
-            </td>
-            <td class="responsive-td">
-              <div class="instructions-initial">
-                <b
-                  >The PortiLexicon-UD lexicon contains over 1.2 million word
-                  forms in Portuguese, presented with their respective
-                  morphological and morphosyntactic classifications, using the
-                  set of labels from the
-                  <a href="https://universaldependencies.org/"
-                    >Universal Dependencies</a
-                  >
-                  framework. PortiLexicon-UD is based on
-                  <a
-                    href="http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/index.html"
-                    >Unitex-PB</a
-                  >
-                  and is part of the
-                  <a href="https://sites.google.com/icmc.usp.br/poetisa"
-                    >POeTiSA</a
-                  >
-                  project.</b
-                >
-              </div>
-            </td>
-          </tr>
-        </table>
-        <div class="instructions">
-          Use the field below to search for a word in the lexicon.
-        </div>
-      </div>
       <div class="search-set">
         <span class="p-input-icon-left input-wrapper">
           <i class="pi pi-search" />
@@ -48,6 +13,39 @@
           />
         </span>
         <Button @click="makeSearch" label="Search Word" class="p-button-lg" />
+      </div>
+      <div v-if="!madeSearch" class="instructions-panel">
+        <table>
+          <tr>
+            <td class="responsive-td">
+              <img class="art-initial" src="./assets/logo-ud.png" />
+            </td>
+            <td class="responsive-td">
+              <div class="instructions-initial">
+                The PortiLexicon-UD lexicon contains over 1.2 million word forms
+                in Portuguese, presented with their respective morphological and
+                morphosyntactic classifications, using the set of labels from
+                the
+                <a href="https://universaldependencies.org/" target="_blank"
+                  >Universal Dependencies</a
+                >
+                framework. PortiLexicon-UD is based on
+                <a
+                  href="http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/index.html"
+                  target="_blank"
+                  >Unitex-PB</a
+                >
+                and is part of the
+                <a
+                  href="https://sites.google.com/icmc.usp.br/poetisa"
+                  target="_blank"
+                  >POeTiSA</a
+                >
+                project.
+              </div>
+            </td>
+          </tr>
+        </table>
       </div>
       <span id="numberOfResults" v-if="madeSearch && numberOfResults !== 0"
         >{{ numberOfResults }} results were found</span
@@ -179,7 +177,7 @@ body {
 
 #numberOfResults {
   display: block;
-  margin-top: 25px;
+  margin-top: 50px;
   margin-bottom: 10px;
   color: #495057;
   font-size: 14px;
@@ -188,9 +186,7 @@ body {
 .centered {
   font-family: "Roboto", sans-serif;
   width: max-content;
-  margin-top: 110px;
-  margin-left: 100px;
-  margin-bottom: 100px;
+  margin: 110px auto 100px auto;
 }
 
 .result {
@@ -206,7 +202,7 @@ body {
 }
 
 .search-input {
-  width: 500px;
+  width: 610px;
 }
 
 .art {
@@ -243,7 +239,7 @@ body {
 }
 
 .instructions-initial {
-  text-align: left;
+  text-align: justify;
   color: #495057;
   font-size: 18px;
   width: 650px;
@@ -253,8 +249,11 @@ body {
 
 .search-set {
   width: fit-content;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 200px auto 0 auto;
+}
+
+.instructions-panel {
+  margin-top: 140px;
 }
 
 @media (max-width: 300px) {
@@ -265,6 +264,10 @@ body {
 
   .art {
     height: 120px;
+  }
+
+  .art-initial {
+    margin-bottom: 50px;
   }
 
   .search-input {
@@ -301,6 +304,10 @@ body {
 
   .art {
     height: 150px;
+  }
+
+  .art-initial {
+    margin-bottom: 50px;
   }
 
   .search-input {
@@ -343,6 +350,10 @@ body {
     height: 150px;
   }
 
+  .art-initial {
+    margin-bottom: 50px;
+  }
+
   .centered {
     width: max-content;
     margin-left: auto;
@@ -366,12 +377,21 @@ body {
 }
 
 @media (min-width: 500px) and (max-width: 800px) {
+  .responsive-td {
+    display: block;
+    text-align: center;
+  }
+
   .search-input {
     width: 250px;
   }
 
   .art {
     height: 150px;
+  }
+
+  .art-initial {
+    margin-bottom: 50px;
   }
 
   .centered {

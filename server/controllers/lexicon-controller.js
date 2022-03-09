@@ -10,7 +10,7 @@ exports.apiDownloadLexicon = async (req, res, next) => {
 
     // send file back to client as download
     res.set({
-      "Content-Disposition": `attachment; filename=portilex.tsv`,
+      "Content-Disposition": `attachment; filename=portilexicon-ud.tsv`,
       "Content-Type": "text/plain",
     });
 

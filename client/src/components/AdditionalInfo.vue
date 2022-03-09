@@ -1,61 +1,70 @@
 <template>
   <div class="nav">
     <div class="with-divisor">
-      <div class="instructions">
-        <b>Download the lexicon as a single .tsv file</b>
-      </div>
-      <Button
-        @click="downloadLexicon"
-        label="Download Lexicon"
-        class="p-button-sm"
-        icon="pi pi-download"
-      />
-      <div class="instructions with-margin-top">
-        <b>Suggest words to be included in a future version</b>
-      </div>
-      <Button
-        @click="goToPage('https://forms.gle/qYC9pgwcgi7C1YQR9')"
-        label="Suggest words"
-        class="p-button-sm"
-        icon="pi pi-plus-circle"
-      />
+      <table class="centralized-info">
+        <tr>
+          <td>
+            <div>
+              <a :href="downloadLexiconLink" target="_blank"
+                >Download the lexicon</a
+              >
+              as a single .tsv file
+            </div>
+          </td>
+
+          <td>
+            <div class="central-el">
+              <a href="https://forms.gle/qYC9pgwcgi7C1YQR9" target="_blank"
+                >Suggest words</a
+              >
+              to be included in a future version
+            </div>
+          </td>
+
+          <td>
+            <span class="license-line">
+              <img class="cc-logo" src="../assets/by.svg" /> Licensed under
+              <a
+                href="https://creativecommons.org/licenses/by/4.0/"
+                target="_blank"
+                >CC BY 4.0</a
+              >
+            </span>
+          </td>
+        </tr>
+      </table>
     </div>
   </div>
 </template>
 
 <script>
-import Button from "primevue/button";
-
 export default {
-  components: { Button },
-
   // initializes the download of the whole uploaded treebank
-  methods: {
-    goToPage(url) {
-      window.open(url, "_blank");
-    },
-
-    async downloadLexicon() {
-      // mounts the download URL
-      const downloadUrl = process.env.VUE_APP_URL + "api/lexicon/download";
-
-      window.open(downloadUrl, "_blank");
+  computed: {
+    downloadLexiconLink() {
+      return process.env.VUE_APP_URL + "api/lexicon/download";
     },
   },
 };
 </script>
 
 <style scoped>
+.central-el {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.centralized-info {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .instructions {
   text-align: center;
   color: #495057;
   font-size: 15px;
   margin: 0 auto 20px auto;
   line-height: 35px;
-}
-
-.with-margin-top {
-  margin-top: 30px;
 }
 
 .license-line {
@@ -75,7 +84,7 @@ export default {
 }
 
 .with-divisor {
-  padding: 30px 0 30px 0;
+  padding: 50px 0 50px 0;
   margin: 0px 40px;
   border-top: 1px solid;
   border-color: #e4e5e8;
