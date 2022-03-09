@@ -3,7 +3,7 @@
     <div class="with-divisor">
       <table class="centralized-info">
         <tr>
-          <td>
+          <td class="responsive-td">
             <div>
               <a :href="downloadLexiconLink" target="_blank"
                 >Download the lexicon</a
@@ -12,7 +12,7 @@
             </div>
           </td>
 
-          <td>
+          <td class="responsive-td">
             <div class="central-el">
               <a href="https://forms.gle/qYC9pgwcgi7C1YQR9" target="_blank"
                 >Suggest words</a
@@ -21,7 +21,7 @@
             </div>
           </td>
 
-          <td>
+          <td class="responsive-td">
             <span class="license-line">
               <img class="cc-logo" src="../assets/by.svg" /> Licensed under
               <a
@@ -88,5 +88,15 @@ export default {
   margin: 0px 40px;
   border-top: 1px solid;
   border-color: #e4e5e8;
+}
+
+@media (min-width: 300px) and (max-width: 800px) {
+  .responsive-td {
+    display: block;
+    text-align: center;
+  }
+  .central-el {
+    margin: 50px 0 50px 0;
+  }
 }
 </style>
