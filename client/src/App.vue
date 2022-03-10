@@ -22,14 +22,13 @@
             </td>
             <td class="responsive-td">
               <div class="instructions-initial">
-                The PortiLexicon-UD lexicon contains over 1.2 million word forms
-                in Portuguese, presented with their respective morphological and
-                morphosyntactic classifications, using the set of labels from
-                the
+                PortiLexicon-UD contains over 1.2 million word forms in
+                Portuguese with their respective morphological and
+                morphosyntactic information, following the
                 <a href="https://universaldependencies.org/" target="_blank"
                   >Universal Dependencies</a
                 >
-                framework. PortiLexicon-UD is based on
+                international model. The lexicon is based on
                 <a
                   href="http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/index.html"
                   target="_blank"
