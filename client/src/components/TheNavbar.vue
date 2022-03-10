@@ -40,7 +40,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .slogan {
   font-size: 15px;
   color: #495057;
@@ -74,6 +74,11 @@ export default {
 
 #logo {
   color: black;
+}
+
+:deep(.p-menubar-start) {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a:link {
