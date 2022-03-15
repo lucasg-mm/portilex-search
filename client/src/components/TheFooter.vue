@@ -1,8 +1,19 @@
 <template>
   <div class="nav">
     <div class="with-divisor">
+      <span class="institutions">
+        <a href="http://c4ai.inova.usp.br/" target="_blank">
+          <img class="institution" src="../assets/c4ai.png" />
+        </a>
+        <a href="http://www.nilc.icmc.usp.br/" target="_blank">
+          <img class="institution middle" src="../assets/nilc.jpg" />
+        </a>
+        <a href="http://www.saocarlos.usp.br/" target="_blank">
+          <img class="institution" src="../assets/usp.png" />
+        </a>
+      </span>
       <span
-        >v1.0.0 – made with 💙 by
+        >v1.0.0 – this webpage made with 💙 by
         <a href="https://www.linkedin.com/in/lucasgmm/" target="_blank"
           >Lucas Miranda</a
         ></span
@@ -14,6 +25,20 @@
 <script></script>
 
 <style scoped>
+.institutions {
+  display: block;
+}
+
+.middle {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.institution {
+  width: 100px;
+  margin-bottom: 30px;
+}
+
 .license-line {
   display: block;
 }
