@@ -13,7 +13,7 @@
         </a>
       </span>
       <span
-        >v1.0.0 – this webpage made with 💙 by
+        >v1.0.0 – this webpage was made with 💙 by
         <a href="https://www.linkedin.com/in/lucasgmm/" target="_blank"
           >Lucas Miranda</a
         ></span
