@@ -952,6 +952,8 @@ achincalhação	achincalhação	Gender=Fem|Number=Sing
 achincalhações	achincalhação	Gender=Fem|Number=Plur
 achincalhe	achincalhe	Gender=Masc|Number=Sing
 achincalhes	achincalhe	Gender=Masc|Number=Plur
+achismo	achismo	Gender=Masc|Number=Sing
+achismos	achismo	Gender=Masc|Number=Plur
 achádego	achádego	Gender=Masc|Number=Sing
 achádegos	achádego	Gender=Masc|Number=Plur
 aciaria	aciaria	Gender=Fem|Number=Sing
@@ -1400,6 +1402,8 @@ adicionadoras	adicionador	Gender=Fem|Number=Plur
 adicionadores	adicionador	Gender=Masc|Number=Plur
 adicionamento	adicionamento	Gender=Masc|Number=Sing
 adicionamentos	adicionamento	Gender=Masc|Number=Plur
+adicção	adicção	Gender=Fem|Number=Sing
+adicções	adicção	Gender=Fem|Number=Plur
 adida	adido	Gender=Fem|Number=Sing
 adidas	adido	Gender=Fem|Number=Plur
 adido	adido	Gender=Masc|Number=Sing
@@ -2187,7 +2191,9 @@ agronegócio	agronegócio	Gender=Masc|Number=Sing
 agronegócios	agronegócio	Gender=Masc|Number=Plur
 agronomia	agronomia	Gender=Fem|Number=Sing
 agronomias	agronomia	Gender=Fem|Number=Plur
+agropecuária	agropecuária	Gender=Fem|Number=Sing
 agropecuária	agropecuário	Gender=Fem|Number=Sing
+agropecuárias	agropecuária	Gender=Fem|Number=Plur
 agropecuárias	agropecuário	Gender=Fem|Number=Plur
 agropecuário	agropecuário	Gender=Masc|Number=Sing
 agropecuários	agropecuário	Gender=Masc|Number=Plur
@@ -3140,9 +3146,11 @@ alquino	alquino	Gender=Masc|Number=Sing
 alquinos	alquino	Gender=Masc|Number=Plur
 alrucabá	alrucabá	Gender=Fem|Number=Sing
 alrucabás	alrucabá	Gender=Fem|Number=Plur
+alta	alta	Gender=Fem|Number=Sing
 alta	alto	Gender=Fem|Number=Sing
 altar	altar	Gender=Masc|Number=Sing
 altares	altar	Gender=Masc|Number=Plur
+altas	alta	Gender=Fem|Number=Plur
 altas	alto	Gender=Fem|Number=Plur
 altazimute	altazimute	Gender=Masc|Number=Sing
 altazimutes	altazimute	Gender=Masc|Number=Plur
@@ -3160,7 +3168,9 @@ alternadoras	alternador	Gender=Fem|Number=Plur
 alternadores	alternador	Gender=Masc|Number=Plur
 alternante	alternante	Gender=Neut|Number=Sing
 alternantes	alternante	Gender=Neut|Number=Plur
+alternativa	alternativa	Gender=Fem|Number=Sing
 alternativa	alternativo	Gender=Fem|Number=Sing
+alternativas	alternativa	Gender=Fem|Number=Plur
 alternativas	alternativo	Gender=Fem|Number=Plur
 alternatividade	alternatividade	Gender=Fem|Number=Sing
 alternatividades	alternatividade	Gender=Fem|Number=Plur
@@ -3826,7 +3836,9 @@ amídala	amídala	Gender=Fem|Number=Sing
 amídalas	amídala	Gender=Fem|Number=Plur
 amígdala	amígdala	Gender=Fem|Number=Sing
 amígdalas	amígdala	Gender=Fem|Number=Plur
+amônia	amônia	Gender=Fem|Number=Sing
 amônia	amônio	Gender=Fem|Number=Sing
+amônias	amônia	Gender=Fem|Number=Plur
 amônias	amônio	Gender=Fem|Number=Plur
 amônio	amônio	Gender=Masc|Number=Sing
 amônios	amônio	Gender=Masc|Number=Plur
@@ -5794,6 +5806,8 @@ arenque	arenque	Gender=Masc|Number=Sing
 arenques	arenque	Gender=Masc|Number=Plur
 areografia	areografia	Gender=Fem|Number=Sing
 areografias	areografia	Gender=Fem|Number=Plur
+arepa	arepa	Gender=Fem|Number=Sing
+arepas	arepa	Gender=Fem|Number=Plur
 ares	ar	Gender=Masc|Number=Plur
 ares	are	Gender=Masc|Number=Plur
 aresta	aresta	Gender=Fem|Number=Sing
@@ -5891,7 +5905,9 @@ aristotelismo	aristotelismo	Gender=Masc|Number=Sing
 aristotelismos	aristotelismo	Gender=Masc|Number=Plur
 aritencéfalo	aritencéfalo	Gender=Masc|Number=Sing
 aritencéfalos	aritencéfalo	Gender=Masc|Number=Plur
+aritmética	aritmética	Gender=Fem|Number=Sing
 aritmética	aritmético	Gender=Fem|Number=Sing
+aritméticas	aritmética	Gender=Fem|Number=Plur
 aritméticas	aritmético	Gender=Fem|Number=Plur
 aritmético	aritmético	Gender=Masc|Number=Sing
 aritméticos	aritmético	Gender=Masc|Number=Plur
@@ -6075,7 +6091,9 @@ arraigada	arraigado	Gender=Fem|Number=Sing
 arraigadas	arraigado	Gender=Fem|Number=Plur
 arraigado	arraigado	Gender=Masc|Number=Sing
 arraigados	arraigado	Gender=Masc|Number=Plur
+arrancada	arrancada	Gender=Fem|Number=Sing
 arrancada	arrancado	Gender=Fem|Number=Sing
+arrancadas	arrancada	Gender=Fem|Number=Plur
 arrancadas	arrancado	Gender=Fem|Number=Plur
 arrancado	arrancado	Gender=Masc|Number=Sing
 arrancador	arrancador	Gender=Masc|Number=Sing
@@ -6668,6 +6686,8 @@ asseio	asseio	Gender=Masc|Number=Sing
 asseios	asseio	Gender=Masc|Number=Plur
 asselvajamento	asselvajamento	Gender=Masc|Number=Sing
 asselvajamentos	asselvajamento	Gender=Masc|Number=Plur
+assembleia	assembleia	Gender=Fem|Number=Sing
+assembleias	assembleia	Gender=Fem|Number=Plur
 assembleísmo	assembleísmo	Gender=Masc|Number=Sing
 assembleísmos	assembleísmo	Gender=Masc|Number=Plur
 assembléia	assembléia	Gender=Fem|Number=Sing
@@ -7096,7 +7116,9 @@ atiramento	atiramento	Gender=Masc|Number=Sing
 atiramentos	atiramento	Gender=Masc|Number=Plur
 atitude	atitude	Gender=Fem|Number=Sing
 atitudes	atitude	Gender=Fem|Number=Plur
+ativa	ativa	Gender=Fem|Number=Sing
 ativa	ativo	Gender=Fem|Number=Sing
+ativas	ativa	Gender=Fem|Number=Plur
 ativas	ativo	Gender=Fem|Number=Plur
 ativação	ativação	Gender=Fem|Number=Sing
 ativações	ativação	Gender=Fem|Number=Plur
@@ -8462,9 +8484,11 @@ baitacas	baitaca	Gender=Fem|Number=Plur
 baitarra	baitarro	Gender=Masc|Number=Sing
 baiuca	baiuca	Gender=Fem|Number=Sing
 baiucas	baiuca	Gender=Fem|Number=Plur
+baixa	baixa	Gender=Fem|Number=Sing
 baixa	baixo	Gender=Fem|Number=Sing
 baixadão	baixadão	Gender=Masc|Number=Sing
 baixadões	baixadão	Gender=Masc|Number=Plur
+baixas	baixa	Gender=Fem|Number=Plur
 baixas	baixo	Gender=Fem|Number=Plur
 baixela	baixela	Gender=Fem|Number=Sing
 baixelas	baixela	Gender=Fem|Number=Plur
@@ -10573,6 +10597,10 @@ bloggers	blogger	Gender=Masc|Number=Plur
 blogosfera	blogosfera	Gender=Fem|Number=Sing
 blogosferas	blogosfera	Gender=Fem|Number=Plur
 blogs	blog	Gender=Masc|Number=Plur|Foreign=Yes
+blogueira	blogueiro	Gender=Fem|Number=Sing
+blogueiras	blogueiro	Gender=Fem|Number=Plur
+blogueiro	blogueiro	Gender=Masc|Number=Sing
+blogueiros	blogueiro	Gender=Masc|Number=Plur
 bloqueador	bloqueador	Gender=Masc|Number=Sing
 bloqueadora	bloqueador	Gender=Fem|Number=Sing
 bloqueadoras	bloqueador	Gender=Fem|Number=Plur
@@ -10819,6 +10847,7 @@ bolsinhos	bolsinho	Gender=Masc|Number=Plur
 bolsista	bolsista	Gender=Neut|Number=Sing
 bolsistas	bolsista	Gender=Neut|Number=Plur
 bolso	bolso	Gender=Masc|Number=Sing
+bolsonarismo	bolsonarismo	Gender=Masc|Number=Sing
 bolsos	bolso	Gender=Masc|Number=Plur
 bolsão	bolsão	Gender=Masc|Number=Sing
 bolsões	bolsõe	Gender=Masc|Number=Plur
@@ -11216,6 +11245,10 @@ branqueamento	branqueamento	Gender=Masc|Number=Sing
 branqueamentos	branqueamento	Gender=Masc|Number=Plur
 branquearia	branquearia	Gender=Fem|Number=Sing
 branquearias	branquearia	Gender=Fem|Number=Plur
+branquelas	branquelo	Gender=Fem|Number=Plur
+branquelas	branquelo	Gender=Fem|Number=Sing
+branquelo	branquelo	Gender=Masc|Number=Sing
+branquelos	branquelo	Gender=Masc|Number=Plur
 branquidão	branquidão	Gender=Fem|Number=Sing
 branquidões	branquidão	Gender=Fem|Number=Plur
 branquinha	branquinho	Gender=Fem|Number=Sing
@@ -11803,6 +11836,8 @@ bustiê	bustiê	Gender=Masc|Number=Sing
 bustiês	bustiê	Gender=Masc|Number=Plur
 busto	busto	Gender=Masc|Number=Sing
 bustos	busto	Gender=Masc|Number=Plur
+busão	busão	Gender=Masc|Number=Sing
+busões	busão	Gender=Masc|Number=Plur
 butano	butano	Gender=Masc|Number=Sing
 butanol	butanol	Gender=Masc|Number=Sing
 butanos	butano	Gender=Masc|Number=Plur
@@ -12500,7 +12535,9 @@ calabreses	calabrês	Gender=Masc|Number=Plur
 calabrote	calabrote	Gender=Masc|Number=Sing
 calabrotes	calabrote	Gender=Masc|Number=Plur
 calabrês	calabrês	Gender=Masc|Number=Sing
+calada	calada	Gender=Fem|Number=Sing
 calada	calado	Gender=Fem|Number=Sing
+caladas	calada	Gender=Fem|Number=Plur
 caladas	calado	Gender=Fem|Number=Plur
 caladinha	caladinho	Gender=Fem|Number=Sing
 caladinhas	caladinho	Gender=Fem|Number=Plur
@@ -12656,11 +12693,13 @@ calista	calista	Gender=Neut|Number=Sing
 calistas	calista	Gender=Neut|Number=Plur
 caliça	caliça	Gender=Fem|Number=Sing
 caliças	caliça	Gender=Fem|Number=Plur
+calma	calma	Gender=Fem|Number=Sing
 calma	calmo	Gender=Fem|Number=Sing
 calmante	calmante	Gender=Neut|Number=Sing
 calmantes	calmante	Gender=Neut|Number=Plur
 calmaria	calmaria	Gender=Fem|Number=Sing
 calmarias	calmaria	Gender=Fem|Number=Plur
+calmas	calma	Gender=Fem|Number=Plur
 calmas	calmo	Gender=Fem|Number=Plur
 calminha	calminho	Gender=Fem|Number=Sing
 calminhas	calminho	Gender=Fem|Number=Plur
@@ -13593,7 +13632,9 @@ caracterizadoras	caracterizador	Gender=Fem|Number=Plur
 caracterizadores	caracterizador	Gender=Masc|Number=Plur
 caracterização	caracterização	Gender=Fem|Number=Sing
 caracterizações	caracterização	Gender=Fem|Number=Plur
+característica	característica	Gender=Fem|Number=Sing
 característica	característico	Gender=Fem|Number=Sing
+características	característica	Gender=Fem|Number=Plur
 características	característico	Gender=Fem|Number=Plur
 característico	característico	Gender=Masc|Number=Sing
 característicos	característico	Gender=Masc|Number=Plur
@@ -14396,6 +14437,7 @@ cassino	cassino	Gender=Masc|Number=Sing
 cassinos	cassino	Gender=Masc|Number=Plur
 cassiterita	cassiterita	Gender=Fem|Number=Sing
 cassiteritas	cassiterita	Gender=Fem|Number=Plur
+casta	casta	Gender=Fem|Number=Sing
 casta	casto	Gender=Fem|Number=Sing
 castanha	castanho	Gender=Fem|Number=Sing
 castanhais	castanhal	Gender=Masc|Number=Plur
@@ -14412,6 +14454,7 @@ castanholas	castanholas	Gender=Fem|Number=Plur
 castanholeira	castanholeira	Gender=Fem|Number=Sing
 castanholeiras	castanholeira	Gender=Fem|Number=Plur
 castanhos	castanho	Gender=Masc|Number=Plur
+castas	casta	Gender=Fem|Number=Plur
 castas	casto	Gender=Fem|Number=Plur
 castelhana	castelhano	Gender=Fem|Number=Sing
 castelhanas	castelhano	Gender=Fem|Number=Plur
@@ -14950,6 +14993,8 @@ cegonhas	cegonha	Gender=Fem|Number=Plur
 cegos	cego	Gender=Masc|Number=Plur
 cegueira	cegueira	Gender=Fem|Number=Sing
 cegueiras	cegueira	Gender=Fem|Number=Plur
+cegueta	cegueta	Gender=Neut|Number=Sing
+ceguetas	cegueta	Gender=Neut|Number=Plur
 ceguinha	ceguinho	Gender=Fem|Number=Sing
 ceguinhas	ceguinho	Gender=Fem|Number=Plur
 ceguinho	ceguinho	Gender=Masc|Number=Sing
@@ -15126,10 +15171,12 @@ centroides	centroide	Gender=Masc|Number=Plur
 centromédio	centromédio	Gender=Masc|Number=Sing
 centromédios	centromédio	Gender=Masc|Number=Plur
 centros	centro	Gender=Masc|Number=Plur
+centrão	centrão	Gender=Masc|Number=Sing
 centríolo	centríolo	Gender=Masc|Number=Sing
 centríolos	centríolo	Gender=Masc|Number=Plur
 centrômero	centrômero	Gender=Masc|Number=Sing
 centrômeros	centrômero	Gender=Masc|Number=Plur
+centrões	centrão	Gender=Masc|Number=Plur
 centurião	centurião	Gender=Masc|Number=Sing
 centuriões	centurião	Gender=Masc|Number=Plur
 centésima	centésimo	Gender=Fem|Number=Sing
@@ -15308,7 +15355,9 @@ cerzidura	cerzidura	Gender=Fem|Number=Sing
 cerziduras	cerzidura	Gender=Fem|Number=Plur
 cerzimento	cerzimento	Gender=Masc|Number=Sing
 cerzimentos	cerzimento	Gender=Masc|Number=Plur
+cerâmica	cerâmica	Gender=Fem|Number=Sing
 cerâmica	cerâmico	Gender=Fem|Number=Sing
+cerâmicas	cerâmica	Gender=Fem|Number=Plur
 cerâmicas	cerâmico	Gender=Fem|Number=Plur
 cerâmico	cerâmico	Gender=Masc|Number=Sing
 cerâmicos	cerâmico	Gender=Masc|Number=Plur
@@ -15393,6 +15442,8 @@ chacota	chacota	Gender=Fem|Number=Sing
 chacotas	chacota	Gender=Fem|Number=Plur
 chacra	chacra	Gender=Neut|Number=Sing
 chacras	chacra	Gender=Neut|Number=Plur
+chacrete	chacrete	Gender=Fem|Number=Sing
+chacretes	chacrete	Gender=Fem|Number=Plur
 chacrinha	chacrinha	Gender=Fem|Number=Sing
 chacrinhas	chacrinha	Gender=Fem|Number=Plur
 chafariz	chafariz	Gender=Masc|Number=Sing
@@ -16683,6 +16734,8 @@ clinândrio	clinândrio	Gender=Masc|Number=Sing
 clinândrios	clinândrio	Gender=Masc|Number=Plur
 clipe	clipe	Gender=Masc|Number=Sing
 clipes	clipe	Gender=Masc|Number=Plur
+clique	clique	Gender=Masc|Number=Sing
+cliques	clique	Gender=Masc|Number=Plur
 clister	clister	Gender=Masc|Number=Sing
 clisteres	clister	Gender=Masc|Number=Plur
 clitóris	clitóris	Gender=Masc|Number=Inv
@@ -16970,6 +17023,8 @@ cocuruto	cocuruto	Gender=Masc|Number=Sing
 cocurutos	cocuruto	Gender=Masc|Number=Plur
 cocção	cocção	Gender=Fem|Number=Sing
 cocções	cocção	Gender=Fem|Number=Plur
+cocô	cocô	Gender=Masc|Number=Sing
+cocôs	cocô	Gender=Masc|Number=Plur
 codelinquência	codelinquência	Gender=Fem|Number=Sing
 codelinquências	codelinquência	Gender=Fem|Number=Plur
 codemandador	codemandador	Gender=Masc|Number=Sing
@@ -17501,10 +17556,12 @@ combinatório	combinatório	Gender=Masc|Number=Sing
 combinatórios	combinatório	Gender=Masc|Number=Plur
 combinação	combinação	Gender=Fem|Number=Sing
 combinações	combinação	Gender=Fem|Number=Plur
+combo	combo	Gender=Masc|Number=Sing
 comboieiro	comboieiro	Gender=Masc|Number=Sing
 comboieiros	comboieiro	Gender=Masc|Number=Plur
 comboio	comboio	Gender=Masc|Number=Sing
 comboios	comboio	Gender=Masc|Number=Plur
+combos	combo	Gender=Masc|Number=Plur
 combretácea	combretáceo	Gender=Fem|Number=Sing
 combretáceas	combretáceo	Gender=Fem|Number=Plur
 combretáceo	combretáceo	Gender=Masc|Number=Sing
@@ -17999,7 +18056,9 @@ concertista	concertista	Gender=Neut|Number=Sing
 concertistas	concertista	Gender=Neut|Number=Plur
 concerto	concerto	Gender=Masc|Number=Sing
 concertos	concerto	Gender=Masc|Number=Plur
+concessionária	concessionária	Gender=Fem|Number=Sing
 concessionária	concessionário	Gender=Fem|Number=Sing
+concessionárias	concessionária	Gender=Fem|Number=Plur
 concessionárias	concessionário	Gender=Fem|Number=Plur
 concessionário	concessionário	Gender=Masc|Number=Sing
 concessionários	concessionário	Gender=Masc|Number=Plur
@@ -18229,6 +18288,8 @@ confiabilidade	confiabilidade	Gender=Fem|Number=Sing
 confiabilidades	confiabilidade	Gender=Fem|Number=Plur
 confiança	confiança	Gender=Neut|Number=Sing
 confianças	confiança	Gender=Neut|Number=Plur
+confidencialidade	confidencialidade	Gender=Fem|Number=Sing
+confidencialidades	confidencialidade	Gender=Fem|Number=Plur
 confidente	confidente	Gender=Neut|Number=Sing
 confidentes	confidente	Gender=Neut|Number=Plur
 confidência	confidência	Gender=Fem|Number=Sing
@@ -19254,7 +19315,9 @@ cooperadora	cooperador	Gender=Fem|Number=Sing
 cooperadoras	cooperador	Gender=Fem|Number=Plur
 cooperadores	cooperador	Gender=Masc|Number=Plur
 cooperados	cooperado	Gender=Masc|Number=Plur
+cooperativa	cooperativa	Gender=Fem|Number=Sing
 cooperativa	cooperativo	Gender=Fem|Number=Sing
+cooperativas	cooperativa	Gender=Fem|Number=Plur
 cooperativas	cooperativo	Gender=Fem|Number=Plur
 cooperativismo	cooperativismo	Gender=Masc|Number=Sing
 cooperativismos	cooperativismo	Gender=Masc|Number=Plur
@@ -20370,6 +20433,8 @@ crista	crista	Gender=Fem|Number=Sing
 cristais	cristal	Gender=Masc|Number=Plur
 cristaizinhos	cristaizinho	Gender=Masc|Number=Plur
 cristal	cristal	Gender=Masc|Number=Sing
+cristaleira	cristaleira	Gender=Fem|Number=Sing
+cristaleiras	cristaleira	Gender=Fem|Number=Plur
 cristalina	cristalino	Gender=Fem|Number=Sing
 cristalinas	cristalino	Gender=Fem|Number=Plur
 cristalinidade	cristalinidade	Gender=Fem|Number=Sing
@@ -20503,6 +20568,8 @@ croniqueiro	croniqueiro	Gender=Masc|Number=Sing
 croniqueiros	croniqueiro	Gender=Masc|Number=Plur
 cronista	cronista	Gender=Neut|Number=Sing
 cronistas	cronista	Gender=Neut|Number=Plur
+cronobiologista	cronobiologista	Gender=Neut|Number=Sing
+cronobiologistas	cronobiologista	Gender=Neut|Number=Plur
 cronofotografia	cronofotografia	Gender=Fem|Number=Sing
 cronofotografias	cronofotografia	Gender=Fem|Number=Plur
 cronografia	cronografia	Gender=Fem|Number=Sing
@@ -20602,7 +20669,9 @@ crédulo	crédulo	Gender=Masc|Number=Sing
 crédulos	crédulo	Gender=Masc|Number=Plur
 críquete	críquete	Gender=Masc|Number=Sing
 críquetes	críquete	Gender=Masc|Number=Plur
+crítica	crítica	Gender=Fem|Number=Sing
 crítica	crítico	Gender=Fem|Number=Sing
+críticas	crítica	Gender=Fem|Number=Plur
 críticas	crítico	Gender=Fem|Number=Plur
 crítico	crítico	Gender=Masc|Number=Sing
 críticos	crítico	Gender=Masc|Number=Plur
@@ -21577,7 +21646,9 @@ deferimento	deferimento	Gender=Masc|Number=Sing
 deferimentos	deferimento	Gender=Masc|Number=Plur
 deferência	deferência	Gender=Fem|Number=Sing
 deferências	deferência	Gender=Fem|Number=Plur
+defesa	defesa	Gender=Fem|Number=Sing
 defesa	defeso	Gender=Fem|Number=Sing
+defesas	defesa	Gender=Fem|Number=Plur
 defesas	defeso	Gender=Fem|Number=Plur
 defeso	defeso	Gender=Masc|Number=Sing
 defesos	defeso	Gender=Masc|Number=Plur
@@ -21814,6 +21885,8 @@ demonismo	demonismo	Gender=Masc|Number=Sing
 demonismos	demonismo	Gender=Masc|Number=Plur
 demonista	demonista	Gender=Neut|Number=Sing
 demonistas	demonista	Gender=Neut|Number=Plur
+demonização	demonização	Gender=Fem|Number=Sing
+demonizações	demonização	Gender=Fem|Number=Plur
 demonografia	demonografia	Gender=Fem|Number=Sing
 demonografias	demonografia	Gender=Fem|Number=Plur
 demonologia	demonologia	Gender=Fem|Number=Sing
@@ -22102,7 +22175,9 @@ derrota	derrota	Gender=Fem|Number=Sing
 derrotas	derrota	Gender=Fem|Number=Plur
 derrotismo	derrotismo	Gender=Masc|Number=Sing
 derrotismos	derrotismo	Gender=Masc|Number=Plur
+derrubada	derrubada	Gender=Fem|Number=Sing
 derrubada	derrubado	Gender=Fem|Number=Sing
+derrubadas	derrubada	Gender=Fem|Number=Plur
 derrubadas	derrubado	Gender=Fem|Number=Plur
 derrubado	derrubado	Gender=Masc|Number=Sing
 derrubados	derrubado	Gender=Masc|Number=Plur
@@ -22343,6 +22418,8 @@ desaviso	desaviso	Gender=Masc|Number=Sing
 desavisos	desaviso	Gender=Masc|Number=Plur
 desazo	desazo	Gender=Masc|Number=Sing
 desazos	desazo	Gender=Masc|Number=Plur
+desbalanceada	desbalanceada	Gender=Fem|Number=Sing
+desbalanceadas	desbalanceada	Gender=Fem|Number=Plur
 desbalanceamento	desbalanceamento	Gender=Masc|Number=Sing
 desbalanceamentos	desbalanceamento	Gender=Masc|Number=Plur
 desbaratamento	desbaratamento	Gender=Masc|Number=Sing
@@ -23711,6 +23788,10 @@ diatomáceo	diatomáceo	Gender=Masc|Number=Sing
 diatomáceos	diatomáceo	Gender=Masc|Number=Plur
 diatribe	diatribe	Gender=Fem|Number=Sing
 diatribes	diatribe	Gender=Fem|Number=Plur
+dibrador	dibrador	Gender=Masc|Number=Sing
+dibradora	dibrador	Gender=Fem|Number=Sing
+dibradoras	dibrador	Gender=Fem|Number=Plur
+dibradores	dibrador	Gender=Masc|Number=Plur
 dibucaína	dibucaína	Gender=Fem|Number=Sing
 dibucaínas	dibucaína	Gender=Fem|Number=Plur
 dica	dica	Gender=Fem|Number=Sing
@@ -23883,6 +23964,8 @@ dimerização	dimerização	Gender=Fem|Number=Sing
 dimerizações	dimerização	Gender=Fem|Number=Plur
 dimetilformamida	dimetilformamida	Gender=Fem|Number=Sing
 dimetilformamidas	dimetilformamida	Gender=Fem|Number=Plur
+dimetriltriptamina	dimetriltriptamina	Gender=Fem|Number=Sing
+dimetriltriptaminas	dimetriltriptamina	Gender=Fem|Number=Plur
 dimidiação	dimidiação	Gender=Fem|Number=Sing
 dimidiações	dimidiação	Gender=Fem|Number=Plur
 diminuendo	diminuendo	Gender=Masc|Number=Sing
@@ -23936,7 +24019,9 @@ dinoflagelado	dinoflagelado	Gender=Masc|Number=Sing
 dinoflagelados	dinoflagelado	Gender=Masc|Number=Plur
 dinossauro	dinossauro	Gender=Masc|Number=Sing
 dinossauros	dinossauro	Gender=Masc|Number=Plur
+dinâmica	dinâmica	Gender=Fem|Number=Sing
 dinâmica	dinâmico	Gender=Fem|Number=Sing
+dinâmicas	dinâmica	Gender=Fem|Number=Plur
 dinâmicas	dinâmico	Gender=Fem|Number=Plur
 dinâmico	dinâmico	Gender=Masc|Number=Sing
 dinâmicos	dinâmico	Gender=Masc|Number=Plur
@@ -24012,7 +24097,9 @@ dique	dique	Gender=Masc|Number=Sing
 diques	dique	Gender=Masc|Number=Plur
 direcionamento	direcionamento	Gender=Masc|Number=Sing
 direcionamentos	direcionamento	Gender=Masc|Number=Plur
+direita	direita	Gender=Fem|Number=Sing
 direita	direito	Gender=Fem|Number=Sing
+direitas	direita	Gender=Fem|Number=Plur
 direitas	direito	Gender=Fem|Number=Plur
 direitinha	direitinho	Gender=Fem|Number=Sing
 direitinhas	direitinho	Gender=Fem|Number=Plur
@@ -24210,6 +24297,8 @@ disquinho	disquinho	Gender=Masc|Number=Sing
 disquinhos	disquinho	Gender=Masc|Number=Plur
 disritmia	disritmia	Gender=Fem|Number=Sing
 disritmias	disritmia	Gender=Fem|Number=Plur
+disrupção	disrupção	Gender=Fem|Number=Sing
+disrupções	disrupção	Gender=Fem|Number=Plur
 dissabor	dissabor	Gender=Masc|Number=Sing
 dissabores	dissabor	Gender=Masc|Number=Plur
 dissacarídeo	dissacarídeo	Gender=Masc|Number=Sing
@@ -24304,6 +24393,8 @@ distopia	distopia	Gender=Fem|Number=Sing
 distopias	distopia	Gender=Fem|Number=Plur
 distorção	distorção	Gender=Fem|Number=Sing
 distorções	distorção	Gender=Fem|Number=Plur
+distrato	distrato	Gender=Masc|Number=Sing
+distratos	distrato	Gender=Masc|Number=Plur
 distração	distração	Gender=Fem|Number=Sing
 distrações	distração	Gender=Fem|Number=Plur
 distribucionalista	distribucionalista	Gender=Neut|Number=Sing
@@ -24643,9 +24734,11 @@ domésticos	doméstico	Gender=Masc|Number=Plur
 domínio	domínio	Gender=Masc|Number=Sing
 domínios	domínio	Gender=Masc|Number=Plur
 don	don	Gender=Masc|Number=Sing
+dona	dona	Gender=Fem|Number=Sing
 dona	dono	Gender=Fem|Number=Sing
 donaire	donaire	Gender=Masc|Number=Sing
 donaires	donaire	Gender=Masc|Number=Plur
+donas	dona	Gender=Fem|Number=Plur
 donas	dono	Gender=Fem|Number=Plur
 donatismo	donatismo	Gender=Masc|Number=Sing
 donatismos	donatismo	Gender=Masc|Number=Plur
@@ -24918,6 +25011,8 @@ dueto	dueto	Gender=Masc|Number=Sing
 duetos	dueto	Gender=Masc|Number=Plur
 dulcificação	dulcificação	Gender=Fem|Number=Sing
 dulcificações	dulcificação	Gender=Fem|Number=Plur
+dulçor	dulçor	Gender=Masc|Number=Sing
+dulçores	dulçor	Gender=Masc|Number=Plur
 dumping	dumping	Gender=Masc|Number=Sing
 duna	duna	Gender=Fem|Number=Sing
 dunas	duna	Gender=Fem|Number=Plur
@@ -24968,6 +25063,7 @@ duque	duque	Gender=Masc|Number=Sing
 duques	duque	Gender=Masc|Number=Plur
 duquesa	duque	Gender=Fem|Number=Sing
 duquesas	duque	Gender=Fem|Number=Plur
+dura	dura	Gender=Fem|Number=Sing
 dura	duro	Gender=Fem|Number=Sing
 durabilidade	durabilidade	Gender=Fem|Number=Sing
 durabilidades	durabilidade	Gender=Fem|Number=Plur
@@ -24980,6 +25076,7 @@ durante	durante	Gender=Masc|Number=Sing
 durantes	durante	Gender=Masc|Number=Plur
 duraque	duraque	Gender=Masc|Number=Sing
 duraques	duraque	Gender=Masc|Number=Plur
+duras	dura	Gender=Fem|Number=Plur
 duras	duro	Gender=Fem|Number=Plur
 duração	duração	Gender=Fem|Number=Sing
 durações	duração	Gender=Fem|Number=Plur
@@ -25143,6 +25240,8 @@ ecologia	ecologia	Gender=Fem|Number=Sing
 ecologias	ecologia	Gender=Fem|Number=Plur
 ecologista	ecologista	Gender=Neut|Number=Sing
 ecologistas	ecologista	Gender=Neut|Number=Plur
+econocrata	econocrata	Gender=Neut|Number=Sing
+econocratas	econocrata	Gender=Neut|Number=Plur
 econometria	econometria	Gender=Fem|Number=Sing
 econometrias	econometria	Gender=Fem|Number=Plur
 economia	economia	Gender=Fem|Number=Sing
@@ -25443,6 +25542,8 @@ eletrocardiograma	eletrocardiograma	Gender=Masc|Number=Sing
 eletrocardiogramas	eletrocardiograma	Gender=Masc|Number=Plur
 eletrocardiógrafo	eletrocardiógrafo	Gender=Masc|Number=Sing
 eletrocardiógrafos	eletrocardiógrafo	Gender=Masc|Number=Plur
+eletrochoque	eletrochoque	Gender=Masc|Number=Sing
+eletrochoques	eletrochoque	Gender=Masc|Number=Plur
 eletrocussão	eletrocussão	Gender=Fem|Number=Sing
 eletrocussões	eletrocussão	Gender=Fem|Number=Plur
 eletrocutor	eletrocutor	Gender=Masc|Number=Sing
@@ -25498,7 +25599,9 @@ eliminador	eliminador	Gender=Masc|Number=Sing
 eliminadora	eliminador	Gender=Fem|Number=Sing
 eliminadoras	eliminador	Gender=Fem|Number=Plur
 eliminadores	eliminador	Gender=Masc|Number=Plur
+eliminatória	eliminatória	Gender=Fem|Number=Sing
 eliminatória	eliminatório	Gender=Fem|Number=Sing
+eliminatórias	eliminatória	Gender=Fem|Number=Plur
 eliminatórias	eliminatório	Gender=Fem|Number=Plur
 eliminatório	eliminatório	Gender=Masc|Number=Sing
 eliminatórios	eliminatório	Gender=Masc|Number=Plur
@@ -25580,6 +25683,8 @@ emasculação	emasculação	Gender=Fem|Number=Sing
 emasculações	emasculação	Gender=Fem|Number=Plur
 embaixada	embaixada	Gender=Fem|Number=Sing
 embaixadas	embaixada	Gender=Fem|Number=Plur
+embaixadinha	embaixadinha	Gender=Fem|Number=Sing
+embaixadinhas	embaixadinha	Gender=Fem|Number=Plur
 embaixador	embaixador	Gender=Masc|Number=Sing
 embaixadora	embaixador	Gender=Fem|Number=Sing
 embaixadoras	embaixador	Gender=Fem|Number=Plur
@@ -26259,6 +26364,8 @@ encouraçada	encouraçado	Gender=Fem|Number=Sing
 encouraçadas	encouraçado	Gender=Fem|Number=Plur
 encouraçado	encouraçado	Gender=Masc|Number=Sing
 encouraçados	encouraçado	Gender=Masc|Number=Plur
+encoxada	encoxada	Gender=Fem|Number=Sing
+encoxadas	encoxada	Gender=Fem|Number=Plur
 encravadouro	encravadouro	Gender=Masc|Number=Sing
 encravadouros	encravadouro	Gender=Masc|Number=Plur
 encravadura	encravadura	Gender=Fem|Number=Sing
@@ -26693,6 +26800,8 @@ enjeitamento	enjeitamento	Gender=Masc|Number=Sing
 enjeitamentos	enjeitamento	Gender=Masc|Number=Plur
 enjoamento	enjoamento	Gender=Masc|Number=Sing
 enjoamentos	enjoamento	Gender=Masc|Number=Plur
+enjoo	enjoo	Gender=Masc|Number=Sing
+enjoos	enjoo	Gender=Masc|Number=Plur
 enjôo	enjôo	Gender=Masc|Number=Sing
 enjôos	enjôo	Gender=Masc|Number=Plur
 enlace	enlace	Gender=Masc|Number=Sing
@@ -26723,6 +26832,8 @@ enojamento	enojamento	Gender=Masc|Number=Sing
 enojamentos	enojamento	Gender=Masc|Number=Plur
 enojo	enojo	Gender=Masc|Number=Sing
 enojos	enojo	Gender=Masc|Number=Plur
+enologia	enologia	Gender=Fem|Number=Sing
+enologias	enologia	Gender=Fem|Number=Plur
 enormidade	enormidade	Gender=Fem|Number=Sing
 enormidades	enormidade	Gender=Fem|Number=Plur
 enoterácea	enoteráceo	Gender=Fem|Number=Sing
@@ -27633,6 +27744,8 @@ escafandros	escafandro	Gender=Masc|Number=Plur
 escafoide	escafoide	Gender=Neut|Number=Sing
 escafoides	escafoide	Gender=Neut|Number=Plur
 escala	escala	Gender=Fem|Number=Sing
+escalabilidade	escalabilidade	Gender=Fem|Number=Sing
+escalabilidades	escalabilidade	Gender=Fem|Number=Plur
 escalador	escalador	Gender=Masc|Number=Sing
 escaladora	escalador	Gender=Fem|Number=Sing
 escaladoras	escalador	Gender=Fem|Number=Plur
@@ -27987,7 +28100,9 @@ escrevinhadoras	escrevinhador	Gender=Fem|Number=Plur
 escrevinhadores	escrevinhador	Gender=Masc|Number=Plur
 escriba	escriba	Gender=Neut|Number=Sing
 escribas	escriba	Gender=Neut|Number=Plur
+escrita	escrita	Gender=Fem|Number=Sing
 escrita	escrito	Gender=Fem|Number=Sing
+escritas	escrita	Gender=Fem|Number=Plur
 escritas	escrito	Gender=Fem|Number=Plur
 escrito	escrito	Gender=Masc|Number=Sing
 escritor	escritor	Gender=Masc|Number=Sing
@@ -28596,6 +28711,8 @@ espessamento	espessamento	Gender=Masc|Number=Sing
 espessamentos	espessamento	Gender=Masc|Number=Plur
 espessura	espessura	Gender=Fem|Number=Sing
 espessuras	espessura	Gender=Fem|Number=Plur
+espetacularização	espetacularização	Gender=Fem|Number=Sing
+espetacularizações	espetacularização	Gender=Fem|Number=Plur
 espetaculosidade	espetaculosidade	Gender=Fem|Number=Sing
 espetaculosidades	espetaculosidade	Gender=Fem|Number=Plur
 espetadela	espetadela	Gender=Fem|Number=Sing
@@ -28904,6 +29021,8 @@ esquerdismo	esquerdismo	Gender=Masc|Number=Sing
 esquerdismos	esquerdismo	Gender=Masc|Number=Plur
 esquerdista	esquerdista	Gender=Neut|Number=Sing
 esquerdistas	esquerdista	Gender=Neut|Number=Plur
+esquerdopata	esquerdopata	Gender=Neut|Number=Sing
+esquerdopatas	esquerdopata	Gender=Neut|Number=Plur
 esquete	esquete	Gender=Masc|Number=Sing
 esquetes	esquete	Gender=Masc|Number=Plur
 esqui	esqui	Gender=Masc|Number=Sing
@@ -29120,6 +29239,8 @@ estase	estase	Gender=Fem|Number=Sing
 estases	estase	Gender=Fem|Number=Plur
 estatina	estatina	Gender=Fem|Number=Sing
 estatinas	estatina	Gender=Fem|Number=Plur
+estatismo	estatismo	Gender=Masc|Number=Sing
+estatismos	estatismo	Gender=Masc|Number=Plur
 estatização	estatização	Gender=Fem|Number=Sing
 estatizações	estatização	Gender=Fem|Number=Plur
 estatocisto	estatocisto	Gender=Masc|Number=Sing
@@ -29134,7 +29255,9 @@ estatuária	estatuário	Gender=Fem|Number=Sing
 estatuárias	estatuário	Gender=Fem|Number=Plur
 estatuário	estatuário	Gender=Masc|Number=Sing
 estatuários	estatuário	Gender=Masc|Number=Plur
+estatística	estatística	Gender=Fem|Number=Sing
 estatística	estatístico	Gender=Fem|Number=Sing
+estatísticas	estatística	Gender=Fem|Number=Plur
 estatísticas	estatístico	Gender=Fem|Number=Plur
 estatístico	estatístico	Gender=Masc|Number=Sing
 estatísticos	estatístico	Gender=Masc|Number=Plur
@@ -29306,7 +29429,9 @@ estimadora	estimador	Gender=Fem|Number=Sing
 estimadoras	estimador	Gender=Fem|Number=Plur
 estimadores	estimador	Gender=Masc|Number=Plur
 estimas	estima	Gender=Fem|Number=Plur
+estimativa	estimativa	Gender=Fem|Number=Sing
 estimativa	estimativo	Gender=Fem|Number=Sing
+estimativas	estimativa	Gender=Fem|Number=Plur
 estimativas	estimativo	Gender=Fem|Number=Plur
 estimativo	estimativo	Gender=Masc|Number=Sing
 estimativos	estimativo	Gender=Masc|Number=Plur
@@ -29704,7 +29829,9 @@ estérea	estéreo	Gender=Fem|Number=Sing
 estéreas	estéreo	Gender=Fem|Number=Plur
 estéreo	estéreo	Gender=Masc|Number=Sing
 estéreos	estéreo	Gender=Masc|Number=Plur
+estética	estética	Gender=Fem|Number=Sing
 estética	estético	Gender=Fem|Number=Sing
+estéticas	estética	Gender=Fem|Number=Plur
 estéticas	estético	Gender=Fem|Number=Plur
 estético	estético	Gender=Masc|Number=Sing
 estéticos	estético	Gender=Masc|Number=Plur
@@ -29853,6 +29980,7 @@ eupneia	eupneia	Gender=Fem|Number=Sing
 eupneias	eupneia	Gender=Fem|Number=Plur
 euquimo	euquimo	Gender=Masc|Number=Sing
 euquimos	euquimo	Gender=Masc|Number=Plur
+euro	euro	Gender=Masc|Number=Sing
 eurobônus	eurobônus	Gender=Masc|Number=Sing
 eurocomunismo	eurocomunismo	Gender=Masc|Number=Sing
 eurocomunismos	eurocomunismo	Gender=Masc|Number=Plur
@@ -29868,6 +29996,7 @@ europeísmo	europeísmo	Gender=Masc|Number=Sing
 europeísmos	europeísmo	Gender=Masc|Number=Plur
 europeísta	europeísta	Gender=Masc|Number=Sing
 europeístas	europeísta	Gender=Masc|Number=Plur
+euros	euro	Gender=Masc|Number=Plur
 eurritmia	eurritmia	Gender=Fem|Number=Sing
 eurritmias	eurritmia	Gender=Fem|Number=Plur
 eurásia	eurásia	Gender=Neut|Number=Sing
@@ -29946,6 +30075,7 @@ evolução	evolução	Gender=Fem|Number=Sing
 evoluções	evolução	Gender=Fem|Number=Plur
 evolvente	evolvente	Gender=Fem|Number=Sing
 evolventes	evolvente	Gender=Fem|Number=Plur
+ex	ex	Gender=Neut|Number=Sing
 exacerbação	exacerbação	Gender=Fem|Number=Sing
 exacerbações	exacerbação	Gender=Fem|Number=Plur
 exagerada	exagerado	Gender=Fem|Number=Sing
@@ -30340,6 +30470,7 @@ expurgação	expurgação	Gender=Fem|Number=Sing
 expurgações	expurgação	Gender=Fem|Number=Plur
 expurgo	expurgo	Gender=Masc|Number=Sing
 expurgos	expurgo	Gender=Masc|Number=Plur
+exs	ex	Gender=Neut|Number=Plur
 exsicata	exsicata	Gender=Fem|Number=Sing
 exsicatas	exsicata	Gender=Fem|Number=Plur
 exsudação	exsudação	Gender=Fem|Number=Sing
@@ -30512,7 +30643,9 @@ faceirices	faceirice	Gender=Fem|Number=Plur
 faceiro	faceiro	Gender=Masc|Number=Sing
 faceiros	faceiro	Gender=Masc|Number=Plur
 faces	face	Gender=Fem|Number=Plur
+faceta	faceta	Gender=Fem|Number=Sing
 faceta	faceto	Gender=Fem|Number=Sing
+facetas	faceta	Gender=Fem|Number=Plur
 facetas	faceto	Gender=Fem|Number=Plur
 faceto	faceto	Gender=Masc|Number=Sing
 facetos	faceto	Gender=Masc|Number=Plur
@@ -30664,7 +30797,9 @@ falecimento	falecimento	Gender=Masc|Number=Sing
 falecimentos	falecimento	Gender=Masc|Number=Plur
 falena	falena	Gender=Fem|Number=Sing
 falenas	falena	Gender=Fem|Number=Plur
+falha	falha	Gender=Fem|Number=Sing
 falha	falho	Gender=Fem|Number=Sing
+falhas	falha	Gender=Fem|Number=Plur
 falhas	falho	Gender=Fem|Number=Plur
 falho	falho	Gender=Masc|Number=Sing
 falhos	falho	Gender=Masc|Number=Plur
@@ -30703,7 +30838,9 @@ falso	falso	Gender=Masc|Number=Sing
 falsos	falso	Gender=Masc|Number=Plur
 falsário	falsário	Gender=Masc|Number=Sing
 falsários	falsário	Gender=Masc|Number=Plur
+falta	falta	Gender=Fem|Number=Sing
 falta	falto	Gender=Fem|Number=Sing
+faltas	falta	Gender=Fem|Number=Plur
 faltas	falto	Gender=Fem|Number=Plur
 falto	falto	Gender=Masc|Number=Sing
 faltos	falto	Gender=Masc|Number=Plur
@@ -30882,7 +31019,9 @@ farmacotécnica	farmacotécnico	Gender=Fem|Number=Sing
 farmacotécnicas	farmacotécnico	Gender=Fem|Number=Plur
 farmacotécnico	farmacotécnico	Gender=Masc|Number=Sing
 farmacotécnicos	farmacotécnico	Gender=Masc|Number=Plur
+farmacêutica	farmacêutica	Gender=Fem|Number=Sing
 farmacêutica	farmacêutico	Gender=Fem|Number=Sing
+farmacêuticas	farmacêutica	Gender=Fem|Number=Plur
 farmacêuticas	farmacêutico	Gender=Fem|Number=Plur
 farmacêutico	farmacêutico	Gender=Masc|Number=Sing
 farmacêuticos	farmacêutico	Gender=Masc|Number=Plur
@@ -31322,11 +31461,13 @@ feriado	feriado	Gender=Masc|Number=Sing
 feriados	feriado	Gender=Masc|Number=Plur
 feriadão	feriadão	Gender=Masc|Number=Sing
 feriadões	feriadõe	Gender=Masc|Number=Plur
+ferida	ferida	Gender=Fem|Number=Sing
 ferida	ferido	Gender=Fem|Number=Sing
 feridade	feridade	Gender=Fem|Number=Sing
 feridades	feridade	Gender=Fem|Number=Plur
 feridagem	feridagem	Gender=Fem|Number=Sing
 feridagens	feridagem	Gender=Fem|Number=Plur
+feridas	ferida	Gender=Fem|Number=Plur
 feridas	ferido	Gender=Fem|Number=Plur
 ferido	ferido	Gender=Masc|Number=Sing
 feridos	ferido	Gender=Masc|Number=Plur
@@ -32212,6 +32353,8 @@ fofoqueiras	fofoqueiro	Gender=Fem|Number=Plur
 fofoqueiro	fofoqueiro	Gender=Masc|Number=Sing
 fofoqueiros	fofoqueiro	Gender=Masc|Number=Plur
 fofos	fofo	Gender=Masc|Number=Plur
+fofura	fofura	Gender=Fem|Number=Sing
+fofuras	fofura	Gender=Fem|Number=Plur
 fofão	fofão	Gender=Masc|Number=Sing
 fofões	fofõe	Gender=Masc|Number=Plur
 fog	fog	Gender=Masc|Number=Sing
@@ -32332,6 +32475,7 @@ foliona	folião	Gender=Fem|Number=Sing
 folionas	folião	Gender=Fem|Number=Plur
 folião	folião	Gender=Masc|Number=Sing
 foliões	folião	Gender=Masc|Number=Plur
+folk	folk	Gender=Masc|Number=Sing
 folículo	folículo	Gender=Masc|Number=Sing
 folículos	folículo	Gender=Masc|Number=Plur
 folíolo	folíolo	Gender=Masc|Number=Sing
@@ -33527,7 +33671,9 @@ fígado	fígado	Gender=Masc|Number=Sing
 fígados	fígado	Gender=Masc|Number=Plur
 fímbria	fímbria	Gender=Fem|Number=Sing
 fímbrias	fímbria	Gender=Fem|Number=Plur
+física	física	Gender=Fem|Number=Sing
 física	físico	Gender=Fem|Number=Sing
+físicas	física	Gender=Fem|Number=Plur
 físicas	físico	Gender=Fem|Number=Plur
 físico	físico	Gender=Masc|Number=Sing
 físicos	físico	Gender=Masc|Number=Plur
@@ -34392,6 +34538,8 @@ gentinhas	gentinho	Gender=Fem|Number=Plur
 gentio	gentio	Gender=Masc|Number=Sing
 gentios	gentio	Gender=Masc|Number=Plur
 gentleman	gentleman	Gender=Masc|Number=Sing
+gentrificação	gentrificação	Gender=Fem|Number=Sing
+gentrificações	gentrificação	Gender=Fem|Number=Plur
 gentílica	gentílico	Gender=Fem|Number=Sing
 gentílicas	gentílico	Gender=Fem|Number=Plur
 gentílico	gentílico	Gender=Masc|Number=Sing
@@ -34682,7 +34830,9 @@ ginostêmios	ginostêmio	Gender=Masc|Number=Plur
 gins	gim	Gender=Masc|Number=Plur
 ginásio	ginásio	Gender=Masc|Number=Sing
 ginásios	ginásio	Gender=Masc|Number=Plur
+ginástica	ginástica	Gender=Fem|Number=Sing
 ginástica	ginástico	Gender=Fem|Number=Sing
+ginásticas	ginástica	Gender=Fem|Number=Plur
 ginásticas	ginástico	Gender=Fem|Number=Plur
 ginástico	ginástico	Gender=Masc|Number=Sing
 ginásticos	ginástico	Gender=Masc|Number=Plur
@@ -35251,7 +35401,9 @@ grampeação	grampeação	Gender=Fem|Number=Sing
 grampeações	grampeação	Gender=Fem|Number=Plur
 grampo	grampo	Gender=Masc|Number=Sing
 grampos	grampo	Gender=Masc|Number=Plur
+gramática	gramática	Gender=Fem|Number=Sing
 gramática	gramático	Gender=Fem|Number=Sing
+gramáticas	gramática	Gender=Fem|Number=Plur
 gramáticas	gramático	Gender=Fem|Number=Plur
 gramático	gramático	Gender=Masc|Number=Sing
 gramáticos	gramático	Gender=Masc|Number=Plur
@@ -35584,7 +35736,9 @@ grupo	grupo	Gender=Masc|Number=Sing
 grupos	grupo	Gender=Masc|Number=Plur
 gruta	gruta	Gender=Fem|Number=Sing
 grutas	gruta	Gender=Fem|Number=Plur
+gráfica	gráfica	Gender=Fem|Number=Sing
 gráfica	gráfico	Gender=Fem|Number=Sing
+gráficas	gráfica	Gender=Fem|Number=Plur
 gráficas	gráfico	Gender=Fem|Number=Plur
 gráfico	gráfico	Gender=Masc|Number=Sing
 gráficos	gráfico	Gender=Masc|Number=Plur
@@ -36166,6 +36320,8 @@ helionose	helionose	Gender=Fem|Number=Sing
 helionoses	helionose	Gender=Fem|Number=Plur
 heliose	heliose	Gender=Fem|Number=Sing
 helioses	heliose	Gender=Fem|Number=Plur
+heliostato	heliostato	Gender=Masc|Number=Sing
+heliostatos	heliostato	Gender=Masc|Number=Plur
 heliostática	heliostática	Gender=Fem|Number=Sing
 heliostáticas	heliostática	Gender=Fem|Number=Plur
 helioterapia	helioterapia	Gender=Fem|Number=Sing
@@ -36914,6 +37070,8 @@ hipertrofia	hipertrofia	Gender=Fem|Number=Sing
 hipertrofias	hipertrofia	Gender=Fem|Number=Plur
 hiperurbanismo	hiperurbanismo	Gender=Masc|Number=Sing
 hiperurbanismos	hiperurbanismo	Gender=Masc|Number=Plur
+hiperêmese	hiperêmese	Gender=Fem|Number=Sing
+hiperêmeses	hiperêmese	Gender=Fem|Number=Plur
 hiperônimo	hiperônimo	Gender=Masc|Number=Sing
 hiperônimos	hiperônimo	Gender=Masc|Number=Plur
 hipismo	hipismo	Gender=Masc|Number=Sing
@@ -38560,7 +38718,9 @@ incursão	incursão	Gender=Fem|Number=Sing
 incursões	incursão	Gender=Fem|Number=Plur
 incêndio	incêndio	Gender=Masc|Number=Sing
 incêndios	incêndio	Gender=Masc|Number=Plur
+incógnita	incógnita	Gender=Fem|Number=Sing
 incógnita	incógnito	Gender=Fem|Number=Sing
+incógnitas	incógnita	Gender=Fem|Number=Plur
 incógnitas	incógnito	Gender=Fem|Number=Plur
 incógnito	incógnito	Gender=Masc|Number=Sing
 incógnitos	incógnito	Gender=Masc|Number=Plur
@@ -40855,6 +41015,8 @@ judiação	judiação	Gender=Fem|Number=Sing
 judiações	judiação	Gender=Fem|Number=Plur
 judicatura	judicatura	Gender=Fem|Number=Sing
 judicaturas	judicatura	Gender=Fem|Number=Plur
+judicialização	judicialização	Gender=Fem|Number=Sing
+judicializações	judicialização	Gender=Fem|Number=Plur
 judoca	judoca	Gender=Neut|Number=Sing
 judocas	judoca	Gender=Neut|Number=Plur
 judô	judô	Gender=Masc|Number=Sing
@@ -41007,7 +41169,9 @@ justificadores	justificador	Gender=Masc|Number=Plur
 justificados	justificado	Gender=Masc|Number=Plur
 justificante	justificante	Gender=Neut|Number=Sing
 justificantes	justificante	Gender=Neut|Number=Plur
+justificativa	justificativa	Gender=Fem|Number=Sing
 justificativa	justificativo	Gender=Fem|Number=Sing
+justificativas	justificativa	Gender=Fem|Number=Plur
 justificativas	justificativo	Gender=Fem|Number=Plur
 justificativo	justificativo	Gender=Masc|Number=Sing
 justificativos	justificativo	Gender=Masc|Number=Plur
@@ -41023,6 +41187,8 @@ justiçada	justiçado	Gender=Fem|Number=Sing
 justiçadas	justiçado	Gender=Fem|Number=Plur
 justiçado	justiçado	Gender=Masc|Number=Sing
 justiçados	justiçado	Gender=Masc|Number=Plur
+justiçamento	justiçamento	Gender=Masc|Number=Sing
+justiçamentos	justiçamento	Gender=Masc|Number=Plur
 justiças	justiça	Gender=Fem|Number=Plur
 justo	justo	Gender=Masc|Number=Sing
 justos	justo	Gender=Masc|Number=Plur
@@ -41037,8 +41203,10 @@ juá	juá	Gender=Masc|Number=Sing
 juás	juá	Gender=Masc|Number=Plur
 juçara	juçara	Gender=Fem|Number=Sing
 juçaras	juçara	Gender=Fem|Number=Plur
+juíza	juíza	Gender=Fem|Number=Sing
 juíza	juízo	Gender=Fem|Number=Sing
 juízas	juiz	Gender=Fem|Number=Plur
+juízas	juíza	Gender=Fem|Number=Plur
 juízas	juízo	Gender=Fem|Number=Plur
 juízes	juiz	Gender=Masc|Number=Plur
 juízo	juízo	Gender=Masc|Number=Sing
@@ -41620,7 +41788,9 @@ laranjinha	laranjinho	Gender=Fem|Number=Sing
 laranjinhas	laranjinho	Gender=Fem|Number=Plur
 lardo	lardo	Gender=Masc|Number=Sing
 lardos	lardo	Gender=Masc|Number=Plur
+lareira	lareira	Gender=Fem|Number=Sing
 lareira	lareiro	Gender=Fem|Number=Sing
+lareiras	lareira	Gender=Fem|Number=Plur
 lareiras	lareiro	Gender=Fem|Number=Plur
 lareiro	lareiro	Gender=Masc|Number=Sing
 lareiros	lareiro	Gender=Masc|Number=Plur
@@ -42546,6 +42716,7 @@ limosidade	limosidade	Gender=Fem|Number=Sing
 limosidades	limosidade	Gender=Fem|Number=Plur
 limote	limote	Gender=Masc|Number=Sing
 limotes	limote	Gender=Masc|Number=Plur
+limpa	limpa	Gender=Fem|Number=Sing
 limpa	limpo	Gender=Fem|Number=Sing
 limpada	limpado	Gender=Fem|Number=Sing
 limpadas	limpado	Gender=Fem|Number=Plur
@@ -42561,6 +42732,7 @@ limpadura	limpadura	Gender=Fem|Number=Sing
 limpaduras	limpadura	Gender=Fem|Number=Plur
 limpamento	limpamento	Gender=Masc|Number=Sing
 limpamentos	limpamento	Gender=Masc|Number=Plur
+limpas	limpa	Gender=Fem|Number=Plur
 limpas	limpo	Gender=Fem|Number=Plur
 limpação	limpação	Gender=Fem|Number=Sing
 limpações	limpação	Gender=Fem|Number=Plur
@@ -42858,7 +43030,9 @@ lixadora	lixador	Gender=Fem|Number=Sing
 lixadoras	lixador	Gender=Fem|Number=Plur
 lixadores	lixador	Gender=Masc|Number=Plur
 lixas	lixa	Gender=Fem|Number=Plur
+lixeira	lixeira	Gender=Fem|Number=Sing
 lixeira	lixeiro	Gender=Fem|Number=Sing
+lixeiras	lixeira	Gender=Fem|Number=Plur
 lixeiras	lixeiro	Gender=Fem|Number=Plur
 lixeiro	lixeiro	Gender=Masc|Number=Sing
 lixeiros	lixeiro	Gender=Masc|Number=Plur
@@ -42935,7 +43109,9 @@ locação	locação	Gender=Fem|Number=Sing
 locações	locação	Gender=Fem|Number=Plur
 lockout	lockout	Gender=Masc|Number=Sing
 loco	loco	Gender=Masc|Number=Sing
+locomotiva	locomotiva	Gender=Fem|Number=Sing
 locomotiva	locomotivo	Gender=Fem|Number=Sing
+locomotivas	locomotiva	Gender=Fem|Number=Plur
 locomotivas	locomotivo	Gender=Fem|Number=Plur
 locomotividade	locomotividade	Gender=Fem|Number=Sing
 locomotividades	locomotividade	Gender=Fem|Number=Plur
@@ -42998,7 +43174,9 @@ logradouro	logradouro	Gender=Masc|Number=Sing
 logradouros	logradouro	Gender=Masc|Number=Plur
 logro	logro	Gender=Masc|Number=Sing
 logros	logro	Gender=Masc|Number=Plur
+logística	logística	Gender=Fem|Number=Sing
 logística	logístico	Gender=Fem|Number=Sing
+logísticas	logística	Gender=Fem|Number=Plur
 logísticas	logístico	Gender=Fem|Number=Plur
 logístico	logístico	Gender=Masc|Number=Sing
 logísticos	logístico	Gender=Masc|Number=Plur
@@ -43050,9 +43228,11 @@ londrina	londrino	Gender=Fem|Number=Sing
 londrinas	londrino	Gender=Fem|Number=Plur
 londrino	londrino	Gender=Masc|Number=Sing
 londrinos	londrino	Gender=Masc|Number=Plur
+longa	longa	Gender=Fem|Number=Sing
 longa	longo	Gender=Fem|Number=Sing
 longanimidade	longanimidade	Gender=Fem|Number=Sing
 longanimidades	longanimidade	Gender=Fem|Number=Plur
+longas	longa	Gender=Fem|Number=Plur
 longas	longo	Gender=Fem|Number=Plur
 longe	longe	Gender=Neut|Number=Sing
 longes	longe	Gender=Neut|Number=Plur
@@ -43224,6 +43404,7 @@ lula	lula	Gender=Fem|Number=Sing
 lulas	lula	Gender=Fem|Number=Plur
 lulinha	lulinho	Gender=Fem|Number=Sing
 lulinhas	lulinho	Gender=Fem|Number=Plur
+lulismo	lulismo	Gender=Masc|Number=Sing
 lulu	lulu	Gender=Masc|Number=Sing
 lulus	lulu	Gender=Masc|Number=Plur
 luma	luma	Gender=Fem|Number=Sing
@@ -43470,7 +43651,9 @@ lóculos	lóculo	Gender=Masc|Number=Plur
 lócus	lócus	Gender=Masc|Number=Sing
 lódão	lódão	Gender=Masc|Number=Sing
 lódãos	lódão	Gender=Masc|Number=Plur
+lógica	lógica	Gender=Fem|Number=Sing
 lógica	lógico	Gender=Fem|Number=Sing
+lógicas	lógica	Gender=Fem|Number=Plur
 lógicas	lógico	Gender=Fem|Number=Plur
 lógico	lógico	Gender=Masc|Number=Sing
 lógicos	lógico	Gender=Masc|Number=Plur
@@ -45085,6 +45268,8 @@ massagista	massagista	Gender=Neut|Number=Sing
 massagistas	massagista	Gender=Neut|Number=Plur
 massapé	massapé	Gender=Masc|Number=Sing
 massapés	massapé	Gender=Masc|Number=Plur
+massaroca	massaroca	Gender=Fem|Number=Sing
+massarocas	massaroca	Gender=Fem|Number=Plur
 massas	massa	Gender=Fem|Number=Plur
 masseira	masseira	Gender=Fem|Number=Sing
 masseiras	masseira	Gender=Fem|Number=Plur
@@ -45164,7 +45349,9 @@ mateiro	mateiro	Gender=Masc|Number=Sing
 mateiros	mateiro	Gender=Masc|Number=Plur
 matematicidade	matematicidade	Gender=Fem|Number=Sing
 matematicidades	matematicidade	Gender=Fem|Number=Plur
+matemática	matemática	Gender=Fem|Number=Sing
 matemática	matemático	Gender=Fem|Number=Sing
+matemáticas	matemática	Gender=Fem|Number=Plur
 matemáticas	matemático	Gender=Fem|Number=Plur
 matemático	matemático	Gender=Masc|Number=Sing
 matemáticos	matemático	Gender=Masc|Number=Plur
@@ -45331,6 +45518,7 @@ meato	meato	Gender=Masc|Number=Sing
 meatos	meato	Gender=Masc|Number=Plur
 meação	meação	Gender=Fem|Number=Sing
 meações	meação	Gender=Fem|Number=Plur
+meca	meca	Gender=Fem|Number=Sing
 mecanicidade	mecanicidade	Gender=Fem|Number=Sing
 mecanicidades	mecanicidade	Gender=Fem|Number=Plur
 mecanicismo	mecanicismo	Gender=Masc|Number=Sing
@@ -45350,7 +45538,9 @@ mecenato	mecenato	Gender=Masc|Number=Sing
 mecenatos	mecenato	Gender=Masc|Number=Plur
 mecha	mecha	Gender=Fem|Number=Sing
 mechas	mecha	Gender=Fem|Number=Plur
+mecânica	mecânica	Gender=Fem|Number=Sing
 mecânica	mecânico	Gender=Fem|Number=Sing
+mecânicas	mecânica	Gender=Fem|Number=Plur
 mecânicas	mecânico	Gender=Fem|Number=Plur
 mecânico	mecânico	Gender=Masc|Number=Sing
 mecânicos	mecânico	Gender=Masc|Number=Plur
@@ -45508,7 +45698,9 @@ megawatt	megawatt	Gender=Masc|Number=Sing
 megawatts	megawatt	Gender=Masc|Number=Plur
 megera	megera	Gender=Fem|Number=Sing
 megeras	megera	Gender=Fem|Number=Plur
+meia	meia	Gender=Fem|Number=Sing
 meia	meio	Gender=Fem|Number=Sing
+meias	meia	Gender=Fem|Number=Plur
 meias	meio	Gender=Fem|Number=Plur
 meiguice	meiguice	Gender=Fem|Number=Sing
 meiguices	meiguice	Gender=Fem|Number=Plur
@@ -45677,6 +45869,8 @@ meninge	meninge	Gender=Fem|Number=Sing
 meninges	meninge	Gender=Fem|Number=Plur
 meningite	meningite	Gender=Fem|Number=Sing
 meningites	meningite	Gender=Fem|Number=Plur
+meningoencefalite	meningoencefalite	Gender=Fem|Number=Sing
+meningoencefalites	meningoencefalite	Gender=Fem|Number=Plur
 meningose	meningose	Gender=Fem|Number=Sing
 meningoses	meningose	Gender=Fem|Number=Plur
 meninice	meninice	Gender=Fem|Number=Sing
@@ -45732,6 +45926,8 @@ mensalidade	mensalidade	Gender=Fem|Number=Sing
 mensalidades	mensalidade	Gender=Fem|Number=Plur
 mensalista	mensalista	Gender=Neut|Number=Sing
 mensalistas	mensalista	Gender=Neut|Number=Plur
+mensalão	mensalão	Gender=Masc|Number=Sing
+mensalões	mensalão	Gender=Masc|Number=Plur
 menstruação	menstruação	Gender=Fem|Number=Sing
 menstruações	menstruação	Gender=Fem|Number=Plur
 mensura	mensura	Gender=Fem|Number=Sing
@@ -48167,6 +48363,8 @@ multidão	multidão	Gender=Fem|Number=Sing
 multidões	multidão	Gender=Fem|Number=Plur
 multilinguismo	multilinguismo	Gender=Masc|Number=Sing
 multilinguismos	multilinguismo	Gender=Masc|Number=Plur
+multimercado	multimercado	Gender=Masc|Number=Sing
+multimercados	multimercado	Gender=Masc|Number=Plur
 multimilionária	multimilionário	Gender=Fem|Number=Sing
 multimilionárias	multimilionário	Gender=Fem|Number=Plur
 multimilionário	multimilionário	Gender=Masc|Number=Sing
@@ -48489,7 +48687,9 @@ mãozinha	mãozinho	Gender=Fem|Number=Sing
 mãozinhas	mãozinho	Gender=Fem|Number=Plur
 mãozorra	mãozorro	Gender=Fem|Number=Sing
 mãozorras	mãozorro	Gender=Fem|Number=Plur
+média	média	Gender=Fem|Number=Sing
 média	médio	Gender=Fem|Number=Sing
+médias	média	Gender=Fem|Number=Plur
 médias	médio	Gender=Fem|Number=Plur
 médica	médico	Gender=Fem|Number=Sing
 médicas	médico	Gender=Fem|Number=Plur
@@ -48572,7 +48772,9 @@ múmias	múmia	Gender=Fem|Number=Plur
 múnus	múnus	Gender=Masc|Number=Inv
 músculo	músculo	Gender=Masc|Number=Sing
 músculos	músculo	Gender=Masc|Number=Plur
+música	música	Gender=Fem|Number=Sing
 música	músico	Gender=Fem|Number=Sing
+músicas	música	Gender=Fem|Number=Plur
 músicas	músico	Gender=Fem|Number=Plur
 músico	músico	Gender=Masc|Number=Sing
 músicos	músico	Gender=Masc|Number=Plur
@@ -48739,7 +48941,9 @@ narradora	narrador	Gender=Fem|Number=Sing
 narradoras	narrador	Gender=Fem|Number=Plur
 narradores	narrador	Gender=Masc|Number=Plur
 narrados	narrado	Gender=Masc|Number=Plur
+narrativa	narrativa	Gender=Fem|Number=Sing
 narrativa	narrativo	Gender=Fem|Number=Sing
+narrativas	narrativa	Gender=Fem|Number=Plur
 narrativas	narrativo	Gender=Fem|Number=Plur
 narratividade	narratividade	Gender=Fem|Number=Sing
 narratividades	narratividade	Gender=Fem|Number=Plur
@@ -49979,6 +50183,8 @@ ociosidade	ociosidade	Gender=Fem|Number=Sing
 ociosidades	ociosidade	Gender=Fem|Number=Plur
 ocioso	ocioso	Gender=Masc|Number=Sing
 ociosos	ocioso	Gender=Masc|Number=Plur
+ocitocina	ocitocina	Gender=Fem|Number=Sing
+ocitocinas	ocitocina	Gender=Fem|Number=Plur
 oclusão	oclusão	Gender=Fem|Number=Sing
 oclusões	oclusão	Gender=Fem|Number=Plur
 oco	oco	Gender=Masc|Number=Sing
@@ -50093,7 +50299,9 @@ ofendido	ofendido	Gender=Masc|Number=Sing
 ofendidos	ofendido	Gender=Masc|Number=Plur
 ofensa	ofensa	Gender=Fem|Number=Sing
 ofensas	ofensa	Gender=Fem|Number=Plur
+ofensiva	ofensiva	Gender=Fem|Number=Sing
 ofensiva	ofensivo	Gender=Fem|Number=Sing
+ofensivas	ofensiva	Gender=Fem|Number=Plur
 ofensivas	ofensivo	Gender=Fem|Number=Plur
 ofensivo	ofensivo	Gender=Masc|Number=Sing
 ofensivos	ofensivo	Gender=Masc|Number=Plur
@@ -50238,7 +50446,9 @@ olfato	olfato	Gender=Masc|Number=Sing
 olfatos	olfato	Gender=Masc|Number=Plur
 olfação	olfação	Gender=Fem|Number=Sing
 olfações	olfação	Gender=Fem|Number=Plur
+olhada	olhada	Gender=Fem|Number=Sing
 olhada	olhado	Gender=Fem|Number=Sing
+olhadas	olhada	Gender=Fem|Number=Plur
 olhadas	olhado	Gender=Fem|Number=Plur
 olhadela	olhadela	Gender=Fem|Number=Sing
 olhadelas	olhadela	Gender=Fem|Number=Plur
@@ -50671,6 +50881,8 @@ originais	original	Gender=Neut|Number=Plur
 original	original	Gender=Neut|Number=Sing
 originalidade	originalidade	Gender=Fem|Number=Sing
 originalidades	originalidade	Gender=Fem|Number=Plur
+originação	originação	Gender=Fem|Number=Sing
+originações	originação	Gender=Fem|Number=Plur
 orilha	orilha	Gender=Fem|Number=Sing
 orilhas	orilha	Gender=Fem|Number=Plur
 orixalá	orixalá	Gender=Masc|Number=Sing
@@ -51144,7 +51356,11 @@ padecente	padecente	Gender=Neut|Number=Sing
 padecentes	padecente	Gender=Neut|Number=Plur
 padecimento	padecimento	Gender=Masc|Number=Sing
 padecimentos	padecimento	Gender=Masc|Number=Plur
+padeira	padeiro	Gender=Fem|Number=Sing
+padeiras	padeiro	Gender=Fem|Number=Plur
 padeiro	padeiro	Gender=Masc|Number=Sing
+padeiro	padeiro	Gender=Masc|Number=Sing
+padeiros	padeiro	Gender=Masc|Number=Plur
 padeiros	padeiro	Gender=Masc|Number=Plur
 padejo	padejo	Gender=Masc|Number=Sing
 padejos	padejo	Gender=Masc|Number=Plur
@@ -51339,6 +51555,8 @@ palestrantes	palestrante	Gender=Neut|Number=Plur
 palestras	palestra	Gender=Fem|Number=Plur
 paleta	paleta	Gender=Fem|Number=Sing
 paletas	paleta	Gender=Fem|Number=Plur
+palete	palete	Gender=Fem|Number=Sing
+paletes	palete	Gender=Fem|Number=Plur
 paletó	paletó	Gender=Masc|Number=Sing
 paletós	paletó	Gender=Masc|Number=Plur
 paleógrafo	paleógrafo	Gender=Masc|Number=Sing
@@ -52553,7 +52771,9 @@ peculato	peculato	Gender=Masc|Number=Sing
 peculatos	peculato	Gender=Masc|Number=Plur
 peculiaridade	peculiaridade	Gender=Fem|Number=Sing
 peculiaridades	peculiaridade	Gender=Fem|Number=Plur
+pecuária	pecuária	Gender=Fem|Number=Sing
 pecuária	pecuário	Gender=Fem|Number=Sing
+pecuárias	pecuária	Gender=Fem|Number=Plur
 pecuárias	pecuário	Gender=Fem|Number=Plur
 pecuário	pecuário	Gender=Masc|Number=Sing
 pecuários	pecuário	Gender=Masc|Number=Plur
@@ -52636,7 +52856,9 @@ pedometrias	pedometria	Gender=Fem|Number=Plur
 pedotrofia	pedotrofia	Gender=Fem|Number=Sing
 pedotrofias	pedotrofia	Gender=Fem|Number=Plur
 pedra	pedra	Gender=Fem|Number=Sing
+pedrada	pedrada	Gender=Fem|Number=Sing
 pedrada	pedrado	Gender=Fem|Number=Sing
+pedradas	pedrada	Gender=Fem|Number=Plur
 pedradas	pedrado	Gender=Fem|Number=Plur
 pedrado	pedrado	Gender=Masc|Number=Sing
 pedrados	pedrado	Gender=Masc|Number=Plur
@@ -54076,6 +54298,7 @@ pintura	pintura	Gender=Fem|Number=Sing
 pinturas	pintura	Gender=Fem|Number=Plur
 pinup	pinup	Gender=Fem|Number=Sing
 pinups	pinup	Gender=Fem|Number=Plur
+pinus	pinus	Gender=Masc|Number=Inv
 pinácea	pináceo	Gender=Fem|Number=Sing
 pináceas	pináceo	Gender=Fem|Number=Plur
 pináceo	pináceo	Gender=Masc|Number=Sing
@@ -54202,6 +54425,8 @@ piririca	piririca	Gender=Neut|Number=Sing
 piriricas	piririca	Gender=Neut|Number=Plur
 pirita	pirita	Gender=Fem|Number=Sing
 piritas	pirita	Gender=Fem|Number=Plur
+pirocracia	pirocracia	Gender=Fem|Number=Sing
+pirocracias	pirocracia	Gender=Fem|Number=Plur
 piroeletricidade	piroeletricidade	Gender=Fem|Number=Sing
 piroeletricidades	piroeletricidade	Gender=Fem|Number=Plur
 piroga	piroga	Gender=Fem|Number=Sing
@@ -54288,6 +54513,8 @@ pistilos	pistilo	Gender=Masc|Number=Plur
 pistinha	pistinho	Gender=Fem|Number=Sing
 pistinhas	pistinho	Gender=Fem|Number=Plur
 pistola	pistola	Gender=Fem|Number=Sing
+pistolagem	pistolagem	Gender=Fem|Number=Sing
+pistolagens	pistolagem	Gender=Fem|Number=Plur
 pistolas	pistola	Gender=Fem|Number=Plur
 pistoleira	pistoleiro	Gender=Fem|Number=Sing
 pistoleiras	pistoleiro	Gender=Fem|Number=Plur
@@ -54572,7 +54799,9 @@ plenitude	plenitude	Gender=Fem|Number=Sing
 plenitudes	plenitude	Gender=Fem|Number=Plur
 pleno	pleno	Gender=Masc|Number=Sing
 plenos	pleno	Gender=Masc|Number=Plur
+plenária	plenária	Gender=Fem|Number=Sing
 plenária	plenário	Gender=Fem|Number=Sing
+plenárias	plenária	Gender=Fem|Number=Plur
 plenárias	plenário	Gender=Fem|Number=Plur
 plenário	plenário	Gender=Masc|Number=Sing
 plenários	plenário	Gender=Masc|Number=Plur
@@ -55285,7 +55514,9 @@ portaria	portaria	Gender=Fem|Number=Sing
 portarias	portaria	Gender=Fem|Number=Plur
 portas	porta	Gender=Fem|Number=Plur
 porte	porte	Gender=Masc|Number=Sing
+porteira	porteira	Gender=Fem|Number=Sing
 porteira	porteiro	Gender=Fem|Number=Sing
+porteiras	porteira	Gender=Fem|Number=Plur
 porteiras	porteiro	Gender=Fem|Number=Plur
 porteiro	porteiro	Gender=Masc|Number=Sing
 porteiros	porteiro	Gender=Masc|Number=Plur
@@ -55468,7 +55699,9 @@ poupanças	poupança	Gender=Fem|Number=Plur
 pouquinho	pouquinho	Gender=Masc|Number=Sing
 pouquinhos	pouquinho	Gender=Masc|Number=Plur
 pousa	pousa	Gender=Fem|Number=Sing
+pousada	pousada	Gender=Fem|Number=Sing
 pousada	pousado	Gender=Fem|Number=Sing
+pousadas	pousada	Gender=Fem|Number=Plur
 pousadas	pousado	Gender=Fem|Number=Plur
 pousadeira	pousadeiro	Gender=Fem|Number=Sing
 pousadeiras	pousadeiro	Gender=Fem|Number=Plur
@@ -56196,6 +56429,8 @@ princesas	princesa	Gender=Fem|Number=Plur
 princeses	princês	Gender=Masc|Number=Plur
 princesinha	princesinho	Gender=Fem|Number=Sing
 princesinhas	princesinho	Gender=Fem|Number=Plur
+princesismo	princesismo	Gender=Masc|Number=Sing
+princesismos	princesismo	Gender=Masc|Number=Plur
 principado	principado	Gender=Masc|Number=Sing
 principados	principado	Gender=Masc|Number=Plur
 principais	principal	Gender=Neut|Number=Plur
@@ -56631,7 +56866,9 @@ propositura	propositura	Gender=Fem|Number=Sing
 proposituras	propositura	Gender=Fem|Number=Plur
 proposição	proposição	Gender=Fem|Number=Sing
 proposições	proposição	Gender=Fem|Number=Plur
+proposta	proposta	Gender=Fem|Number=Sing
 proposta	proposto	Gender=Fem|Number=Sing
+propostas	proposta	Gender=Fem|Number=Plur
 propostas	proposto	Gender=Fem|Number=Plur
 proposto	proposto	Gender=Masc|Number=Sing
 propostos	proposto	Gender=Masc|Number=Plur
@@ -56751,6 +56988,8 @@ proteinase	proteinase	Gender=Fem|Number=Sing
 proteinases	proteinase	Gender=Fem|Number=Plur
 protelação	protelação	Gender=Fem|Number=Sing
 protelações	protelação	Gender=Fem|Number=Plur
+proteoma	proteoma	Gender=Masc|Number=Sing
+proteomas	proteoma	Gender=Masc|Number=Plur
 proterandria	proterandria	Gender=Fem|Number=Sing
 proterandrias	proterandria	Gender=Fem|Number=Plur
 proteroginia	proteroginia	Gender=Fem|Number=Sing
@@ -57491,6 +57730,8 @@ pusilânimes	pusilânime	Gender=Neut|Number=Plur
 pusinho	pusinho	Gender=Masc|Number=Sing
 pusinhos	pusinho	Gender=Masc|Number=Plur
 puta	puto	Gender=Fem|Number=Sing
+putaria	putaria	Gender=Fem|Number=Sing
+putarias	putaria	Gender=Fem|Number=Plur
 putas	puto	Gender=Fem|Number=Plur
 putinha	putinho	Gender=Fem|Number=Sing
 putinhas	putinho	Gender=Fem|Number=Plur
@@ -57736,6 +57977,8 @@ quadrilheira	quadrilheiro	Gender=Fem|Number=Sing
 quadrilheiras	quadrilheiro	Gender=Fem|Number=Plur
 quadrilheiro	quadrilheiro	Gender=Masc|Number=Sing
 quadrilheiros	quadrilheiro	Gender=Masc|Number=Plur
+quadrilhão	quadrilhão	Gender=Masc|Number=Sing
+quadrilhões	quadrilhão	Gender=Masc|Number=Plur
 quadrilátera	quadrilátero	Gender=Fem|Number=Sing
 quadriláteras	quadrilátero	Gender=Fem|Number=Plur
 quadrilátero	quadrilátero	Gender=Masc|Number=Sing
@@ -57888,7 +58131,9 @@ quatro	quatro	Gender=Masc|Number=Sing
 quatrocentos	quatrocentos	Gender=Masc|Number=Inv
 quatros	quatro	Gender=Masc|Number=Plur
 quebra	quebra	Gender=Fem|Number=Sing
+quebrada	quebrada	Gender=Fem|Number=Sing
 quebrada	quebrado	Gender=Fem|Number=Sing
+quebradas	quebrada	Gender=Fem|Number=Plur
 quebradas	quebrado	Gender=Fem|Number=Plur
 quebradeira	quebradeira	Gender=Fem|Number=Sing
 quebradeiras	quebradeira	Gender=Fem|Number=Plur
@@ -58286,7 +58531,9 @@ quíchua	quíchua	Gender=Neut|Number=Sing
 quíchuas	quíchua	Gender=Neut|Number=Plur
 quício	quício	Gender=Masc|Number=Sing
 quícios	quício	Gender=Masc|Number=Plur
+química	química	Gender=Fem|Number=Sing
 química	químico	Gender=Fem|Number=Sing
+químicas	química	Gender=Fem|Number=Plur
 químicas	químico	Gender=Fem|Number=Plur
 químico	químico	Gender=Masc|Number=Sing
 químicos	químico	Gender=Masc|Number=Plur
@@ -58523,7 +58770,9 @@ raizamas	raizame	Gender=Fem|Number=Plur
 raizame	raizame	Gender=Masc|Number=Sing
 raizames	raizame	Gender=Masc|Number=Plur
 raja	raja	Gender=Fem|Number=Sing
+rajada	rajada	Gender=Fem|Number=Sing
 rajada	rajado	Gender=Fem|Number=Sing
+rajadas	rajada	Gender=Fem|Number=Plur
 rajadas	rajado	Gender=Fem|Number=Plur
 rajado	rajado	Gender=Masc|Number=Sing
 rajados	rajado	Gender=Masc|Number=Plur
@@ -58970,6 +59219,7 @@ realistamentos	realistamento	Gender=Masc|Number=Plur
 realistas	realista	Gender=Neut|Number=Plur
 realito	realito	Gender=Masc|Number=Sing
 realitos	realito	Gender=Masc|Number=Plur
+reality	reality	Gender=Masc|Number=Sing
 realizador	realizador	Gender=Masc|Number=Sing
 realizadora	realizador	Gender=Fem|Number=Sing
 realizadoras	realizador	Gender=Fem|Number=Plur
@@ -59260,7 +59510,9 @@ recibo	recibo	Gender=Masc|Number=Sing
 recibos	recibo	Gender=Masc|Number=Plur
 reciclagem	reciclagem	Gender=Fem|Number=Sing
 reciclagens	reciclagem	Gender=Fem|Number=Plur
+recidiva	recidiva	Gender=Fem|Number=Sing
 recidiva	recidivo	Gender=Fem|Number=Sing
+recidivas	recidiva	Gender=Fem|Number=Plur
 recidivas	recidivo	Gender=Fem|Number=Plur
 recidivo	recidivo	Gender=Masc|Number=Sing
 recidivos	recidivo	Gender=Masc|Number=Plur
@@ -59430,6 +59682,10 @@ recoveiro	recoveiro	Gender=Masc|Number=Sing
 recoveiros	recoveiro	Gender=Masc|Number=Plur
 recozimento	recozimento	Gender=Masc|Number=Sing
 recozimentos	recozimento	Gender=Masc|Number=Plur
+recreador	recreador	Gender=Masc|Number=Sing
+recreadora	recreador	Gender=Fem|Number=Sing
+recreadoras	recreador	Gender=Fem|Number=Plur
+recreadores	recreador	Gender=Masc|Number=Plur
 recreação	recreação	Gender=Fem|Number=Sing
 recreações	recreação	Gender=Fem|Number=Plur
 recredenciamento	recredenciamento	Gender=Masc|Number=Sing
@@ -59452,6 +59708,10 @@ recrudescimento	recrudescimento	Gender=Masc|Number=Sing
 recrudescimentos	recrudescimento	Gender=Masc|Number=Plur
 recruta	recruta	Gender=Neut|Number=Sing
 recrutador	recrutador	Gender=Masc|Number=Sing
+recrutador	recrutador	Gender=Masc|Number=Sing
+recrutadora	recrutador	Gender=Fem|Number=Sing
+recrutadoras	recrutador	Gender=Fem|Number=Plur
+recrutadores	recrutador	Gender=Masc|Number=Plur
 recrutadores	recrutador	Gender=Masc|Number=Plur
 recrutamento	recrutamento	Gender=Masc|Number=Sing
 recrutamentos	recrutamento	Gender=Masc|Number=Plur
@@ -60617,6 +60877,8 @@ residência	residência	Gender=Fem|Number=Sing
 residências	residência	Gender=Fem|Number=Plur
 resignação	resignação	Gender=Fem|Number=Sing
 resignações	resignação	Gender=Fem|Number=Plur
+resiliência	resiliência	Gender=Fem|Number=Sing
+resiliências	resiliência	Gender=Fem|Number=Plur
 resina	resina	Gender=Fem|Number=Sing
 resinas	resina	Gender=Fem|Number=Plur
 resistente	resistente	Gender=Neut|Number=Sing
@@ -60861,7 +61123,9 @@ retinta	retinto	Gender=Fem|Number=Sing
 retintas	retinto	Gender=Fem|Number=Plur
 retinto	retinto	Gender=Masc|Number=Sing
 retintos	retinto	Gender=Masc|Number=Plur
+retirada	retirada	Gender=Fem|Number=Sing
 retirada	retirado	Gender=Fem|Number=Sing
+retiradas	retirada	Gender=Fem|Number=Plur
 retiradas	retirado	Gender=Fem|Number=Plur
 retirado	retirado	Gender=Masc|Number=Sing
 retirados	retirado	Gender=Masc|Number=Plur
@@ -61064,6 +61328,8 @@ reverso	reverso	Gender=Masc|Number=Sing
 reversos	reverso	Gender=Masc|Number=Plur
 reversão	reversão	Gender=Fem|Number=Sing
 reversões	reversão	Gender=Fem|Number=Plur
+revertério	revertério	Gender=Masc|Number=Sing
+revertérios	revertério	Gender=Masc|Number=Plur
 reverência	reverência	Gender=Fem|Number=Sing
 reverências	reverência	Gender=Fem|Number=Plur
 reveses	revés	Gender=Masc|Number=Plur
@@ -61107,6 +61373,10 @@ revisteiro	revisteiro	Gender=Masc|Number=Sing
 revisteiros	revisteiro	Gender=Masc|Number=Plur
 revisão	revisão	Gender=Fem|Number=Sing
 revisões	revisão	Gender=Fem|Number=Plur
+revitalizador	revitalizador	Gender=Masc|Number=Sing
+revitalizadora	revitalizador	Gender=Fem|Number=Sing
+revitalizadoras	revitalizador	Gender=Fem|Number=Plur
+revitalizadores	revitalizador	Gender=Masc|Number=Plur
 revitalização	revitalização	Gender=Fem|Number=Sing
 revitalizações	revitalização	Gender=Fem|Number=Plur
 reviva	revivo	Gender=Fem|Number=Sing
@@ -61322,6 +61592,7 @@ risada	risada	Gender=Fem|Number=Sing
 risadas	risada	Gender=Fem|Number=Plur
 risadinha	risadinho	Gender=Fem|Number=Sing
 risadinhas	risadinho	Gender=Fem|Number=Plur
+risca	risca	Gender=Fem|Number=Sing
 risca	risco	Gender=Fem|Number=Sing
 riscada	riscado	Gender=Fem|Number=Sing
 riscadas	riscado	Gender=Fem|Number=Plur
@@ -61333,6 +61604,7 @@ riscadores	riscador	Gender=Masc|Number=Plur
 riscados	riscado	Gender=Masc|Number=Plur
 riscadura	riscadura	Gender=Fem|Number=Sing
 riscaduras	riscadura	Gender=Fem|Number=Plur
+riscas	risca	Gender=Fem|Number=Plur
 riscas	risco	Gender=Fem|Number=Plur
 risco	risco	Gender=Masc|Number=Sing
 riscos	risco	Gender=Masc|Number=Plur
@@ -61491,7 +61763,9 @@ rodopsinas	rodopsina	Gender=Fem|Number=Plur
 rodos	rodo	Gender=Masc|Number=Plur
 rodovia	rodovia	Gender=Fem|Number=Sing
 rodovias	rodovia	Gender=Fem|Number=Plur
+rodoviária	rodoviária	Gender=Fem|Number=Sing
 rodoviária	rodoviário	Gender=Fem|Number=Sing
+rodoviárias	rodoviária	Gender=Fem|Number=Plur
 rodoviárias	rodoviário	Gender=Fem|Number=Plur
 rodoviário	rodoviário	Gender=Masc|Number=Sing
 rodoviários	rodoviário	Gender=Masc|Number=Plur
@@ -61681,11 +61955,13 @@ rosácea	rosácea	Gender=Fem|Number=Sing
 rosáceas	rosácea	Gender=Fem|Number=Plur
 rosário	rosário	Gender=Masc|Number=Sing
 rosários	rosário	Gender=Masc|Number=Plur
+rota	rota	Gender=Fem|Number=Sing
 rota	roto	Gender=Fem|Number=Sing
 rotacionais	rotacional	Gender=Neut|Number=Plur
 rotacional	rotacional	Gender=Neut|Number=Sing
 rotacismo	rotacismo	Gender=Masc|Number=Sing
 rotacismos	rotacismo	Gender=Masc|Number=Plur
+rotas	rota	Gender=Fem|Number=Plur
 rotas	roto	Gender=Fem|Number=Plur
 rotativa	rotativo	Gender=Fem|Number=Sing
 rotativas	rotativo	Gender=Fem|Number=Plur
@@ -62000,6 +62276,8 @@ rótula	rótulo	Gender=Fem|Number=Sing
 rótulas	rótulo	Gender=Fem|Number=Plur
 rótulo	rótulo	Gender=Masc|Number=Sing
 rótulos	rótulo	Gender=Masc|Number=Plur
+rúcula	rúcula	Gender=Fem|Number=Sing
+rúculas	rúcula	Gender=Fem|Number=Plur
 rúgbi	rúgbi	Gender=Masc|Number=Sing
 rúmen	rúmen	Gender=Masc|Number=Sing
 rúmenes	rúmen	Gender=Masc|Number=Plur
@@ -62131,6 +62409,8 @@ sacho	sacho	Gender=Masc|Number=Sing
 sachos	sacho	Gender=Masc|Number=Plur
 saché	saché	Gender=Masc|Number=Sing
 sachés	saché	Gender=Masc|Number=Plur
+sachê	sachê	Gender=Masc|Number=Sing
+sachês	sachê	Gender=Masc|Number=Plur
 saci	saci	Gender=Masc|Number=Sing
 saciedade	saciedade	Gender=Fem|Number=Sing
 saciedades	saciedade	Gender=Fem|Number=Plur
@@ -62144,6 +62424,8 @@ sacoleiro	sacoleiro	Gender=Masc|Number=Sing
 sacoleiros	sacoleiro	Gender=Masc|Number=Plur
 sacolejo	sacolejo	Gender=Masc|Number=Sing
 sacolejos	sacolejo	Gender=Masc|Number=Plur
+sacolão	sacolão	Gender=Masc|Number=Sing
+sacolões	sacolão	Gender=Masc|Number=Plur
 sacos	saco	Gender=Masc|Number=Plur
 sacra	sacro	Gender=Fem|Number=Sing
 sacralidade	sacralidade	Gender=Fem|Number=Sing
@@ -62456,6 +62738,7 @@ saltério	saltério	Gender=Masc|Number=Sing
 saltérios	saltério	Gender=Masc|Number=Plur
 salubridade	salubridade	Gender=Fem|Number=Sing
 salubridades	salubridade	Gender=Fem|Number=Plur
+salva	salva	Gender=Fem|Number=Sing
 salva	salvo	Gender=Fem|Number=Sing
 salvacionismo	salvacionismo	Gender=Masc|Number=Sing
 salvacionismos	salvacionismo	Gender=Masc|Number=Plur
@@ -62473,6 +62756,7 @@ salvaguarda	salvaguarda	Gender=Fem|Number=Sing
 salvaguardas	salvaguarda	Gender=Fem|Number=Plur
 salvamento	salvamento	Gender=Masc|Number=Sing
 salvamentos	salvamento	Gender=Masc|Number=Plur
+salvas	salva	Gender=Fem|Number=Plur
 salvas	salvo	Gender=Fem|Number=Plur
 salvatoriana	salvatoriano	Gender=Fem|Number=Sing
 salvatorianas	salvatoriano	Gender=Fem|Number=Plur
@@ -62554,7 +62838,11 @@ sanefa	sanefa	Gender=Fem|Number=Sing
 sanefas	sanefa	Gender=Fem|Number=Plur
 sanfona	sanfona	Gender=Fem|Number=Sing
 sanfonas	sanfona	Gender=Fem|Number=Plur
+sanfoneira	sanfoneiro	Gender=Fem|Number=Sing
+sanfoneiras	sanfoneiro	Gender=Fem|Number=Plur
 sanfoneiro	sanfoneiro	Gender=Masc|Number=Sing
+sanfoneiro	sanfoneiro	Gender=Masc|Number=Sing
+sanfoneiros	sanfoneiro	Gender=Masc|Number=Plur
 sanfoneiros	sanfoneiro	Gender=Masc|Number=Plur
 sanfonista	sanfonista	Gender=Neut|Number=Sing
 sanfonistas	sanfonista	Gender=Neut|Number=Plur
@@ -63096,7 +63384,9 @@ segregacionista	segregacionista	Gender=Neut|Number=Sing
 segregacionistas	segregacionista	Gender=Neut|Number=Plur
 segregação	segregação	Gender=Fem|Number=Sing
 segregações	segregação	Gender=Fem|Number=Plur
+seguida	seguida	Gender=Fem|Number=Sing
 seguida	seguido	Gender=Fem|Number=Sing
+seguidas	seguida	Gender=Fem|Number=Plur
 seguidas	seguido	Gender=Fem|Number=Plur
 seguido	seguido	Gender=Masc|Number=Sing
 seguidor	seguidor	Gender=Masc|Number=Sing
@@ -63631,6 +63921,8 @@ seroso	seroso	Gender=Masc|Number=Sing
 serosos	seroso	Gender=Masc|Number=Plur
 seroterapia	seroterapia	Gender=Fem|Number=Sing
 seroterapias	seroterapia	Gender=Fem|Number=Plur
+serotonina	serotonina	Gender=Fem|Number=Sing
+serotoninas	serotonina	Gender=Fem|Number=Plur
 serpe	serpe	Gender=Fem|Number=Sing
 serpente	serpente	Gender=Fem|Number=Sing
 serpentes	serpente	Gender=Fem|Number=Plur
@@ -63685,6 +63977,8 @@ sertanejo	sertanejo	Gender=Masc|Number=Sing
 sertanejos	sertanejo	Gender=Masc|Number=Plur
 sertanista	sertanista	Gender=Neut|Number=Sing
 sertanistas	sertanista	Gender=Neut|Number=Plur
+sertralina	sertralina	Gender=Fem|Number=Sing
+sertralinas	sertralina	Gender=Fem|Number=Plur
 sertã	sertã	Gender=Fem|Number=Sing
 sertão	sertão	Gender=Masc|Number=Sing
 sertãozinho	sertãozinho	Gender=Masc|Number=Sing
@@ -64478,6 +64772,8 @@ sobreposta	sobreposto	Gender=Fem|Number=Sing
 sobrepostas	sobreposto	Gender=Fem|Number=Plur
 sobreposto	sobreposto	Gender=Masc|Number=Sing
 sobrepostos	sobreposto	Gender=Masc|Number=Plur
+sobrepreço	sobrepreço	Gender=Masc|Number=Sing
+sobrepreços	sobrepreço	Gender=Masc|Number=Plur
 sobrepujamento	sobrepujamento	Gender=Masc|Number=Sing
 sobrepujamentos	sobrepujamento	Gender=Masc|Number=Plur
 sobrepujança	sobrepujança	Gender=Fem|Number=Sing
@@ -64773,7 +65069,9 @@ solo	solo	Gender=Masc|Number=Sing
 solos	solo	Gender=Masc|Number=Plur
 solstício	solstício	Gender=Masc|Number=Sing
 solstícios	solstício	Gender=Masc|Number=Plur
+solta	solta	Gender=Fem|Number=Sing
 solta	solto	Gender=Fem|Number=Sing
+soltas	solta	Gender=Fem|Number=Plur
 soltas	solto	Gender=Fem|Number=Plur
 solteira	solteiro	Gender=Fem|Number=Sing
 solteiras	solteiro	Gender=Fem|Number=Plur
@@ -65825,6 +66123,10 @@ suicídio	suicídio	Gender=Masc|Number=Sing
 suicídios	suicídio	Gender=Masc|Number=Plur
 suindara	suindara	Gender=Fem|Number=Sing
 suindaras	suindara	Gender=Fem|Number=Plur
+suingueira	suingueiro	Gender=Fem|Number=Sing
+suingueiras	suingueiro	Gender=Fem|Number=Plur
+suingueiro	suingueiro	Gender=Masc|Number=Sing
+suingueiros	suingueiro	Gender=Masc|Number=Plur
 suinocultor	suinocultor	Gender=Masc|Number=Sing
 suinocultores	suinocultor	Gender=Masc|Number=Plur
 suinocultura	suinocultura	Gender=Fem|Number=Sing
@@ -65844,6 +66146,10 @@ sujeição	sujeição	Gender=Fem|Number=Sing
 sujeições	sujeição	Gender=Fem|Number=Plur
 sujidade	sujidade	Gender=Fem|Number=Sing
 sujidades	sujidade	Gender=Fem|Number=Plur
+sujismunda	sujismundo	Gender=Fem|Number=Sing
+sujismundas	sujismundo	Gender=Fem|Number=Plur
+sujismundo	sujismundo	Gender=Masc|Number=Sing
+sujismundos	sujismundo	Gender=Masc|Number=Plur
 sul	sul	Gender=Masc|Number=Sing
 sula	sula	Gender=Fem|Number=Sing
 sulas	sula	Gender=Fem|Number=Plur
@@ -66144,6 +66450,8 @@ supraversões	supraversão	Gender=Fem|Number=Plur
 suprema	supremo	Gender=Fem|Number=Sing
 supremacia	supremacia	Gender=Fem|Number=Sing
 supremacias	supremacia	Gender=Fem|Number=Plur
+supremacista	supremacista	Gender=Neut|Number=Sing
+supremacistas	supremacista	Gender=Neut|Number=Plur
 supremas	supremo	Gender=Fem|Number=Plur
 suprematismo	suprematismo	Gender=Masc|Number=Sing
 suprematismos	suprematismo	Gender=Masc|Number=Plur
@@ -66247,7 +66555,9 @@ suserano	suserano	Gender=Masc|Number=Sing
 suseranos	suserano	Gender=Masc|Number=Plur
 sushi	sushi	Gender=Masc|Number=Sing
 sushis	sushi	Gender=Masc|Number=Plur
+suspeita	suspeita	Gender=Fem|Number=Sing
 suspeita	suspeito	Gender=Fem|Number=Sing
+suspeitas	suspeita	Gender=Fem|Number=Plur
 suspeitas	suspeito	Gender=Fem|Number=Plur
 suspeito	suspeito	Gender=Masc|Number=Sing
 suspeitos	suspeito	Gender=Masc|Number=Plur
@@ -66265,6 +66575,8 @@ suspiradoras	suspirador	Gender=Fem|Number=Plur
 suspiradores	suspirador	Gender=Masc|Number=Plur
 suspiro	suspiro	Gender=Masc|Number=Sing
 suspiros	suspiro	Gender=Masc|Number=Plur
+sussuarana	sussuarana	Gender=Fem|Number=Sing
+sussuaranas	sussuarana	Gender=Fem|Number=Plur
 sussurro	sussurro	Gender=Masc|Number=Sing
 sussurros	sussurro	Gender=Masc|Number=Plur
 sustança	sustança	Gender=Fem|Number=Sing
@@ -66966,7 +67278,9 @@ tamis	tamis	Gender=Masc|Number=Sing
 tamisação	tamisação	Gender=Fem|Number=Sing
 tamisações	tamisação	Gender=Fem|Number=Plur
 tamises	tamis	Gender=Masc|Number=Plur
+tampa	tampa	Gender=Fem|Number=Sing
 tampa	tampo	Gender=Fem|Number=Sing
+tampas	tampa	Gender=Fem|Number=Plur
 tampas	tampo	Gender=Fem|Number=Plur
 tampinha	tampinho	Gender=Fem|Number=Sing
 tampinhas	tampinho	Gender=Fem|Number=Plur
@@ -67612,7 +67926,9 @@ temulência	temulência	Gender=Fem|Number=Sing
 temulências	temulência	Gender=Fem|Number=Plur
 temário	temário	Gender=Masc|Number=Sing
 temários	temário	Gender=Masc|Number=Plur
+temática	temática	Gender=Fem|Number=Sing
 temática	temático	Gender=Fem|Number=Sing
+temáticas	temática	Gender=Fem|Number=Plur
 temáticas	temático	Gender=Fem|Number=Plur
 temático	temático	Gender=Masc|Number=Sing
 temáticos	temático	Gender=Masc|Number=Plur
@@ -67676,7 +67992,9 @@ tentamento	tentamento	Gender=Masc|Number=Sing
 tentamentos	tentamento	Gender=Masc|Number=Plur
 tentames	tentame	Gender=Masc|Number=Plur
 tentas	tenta	Gender=Fem|Number=Plur
+tentativa	tentativa	Gender=Fem|Number=Sing
 tentativa	tentativo	Gender=Fem|Number=Sing
+tentativas	tentativa	Gender=Fem|Number=Plur
 tentativas	tentativo	Gender=Fem|Number=Plur
 tentativo	tentativo	Gender=Masc|Number=Sing
 tentativos	tentativo	Gender=Masc|Number=Plur
@@ -67807,6 +68125,10 @@ terminações	terminação	Gender=Fem|Number=Plur
 terminologia	terminologia	Gender=Fem|Number=Sing
 terminologias	terminologia	Gender=Fem|Number=Plur
 termo	termo	Gender=Masc|Number=Sing
+termocirculador	termocirculador	Gender=Masc|Number=Sing
+termocirculadora	termocirculador	Gender=Fem|Number=Sing
+termocirculadoras	termocirculador	Gender=Fem|Number=Plur
+termocirculadores	termocirculador	Gender=Masc|Number=Plur
 termocópia	termocópia	Gender=Fem|Number=Sing
 termocópias	termocópia	Gender=Fem|Number=Plur
 termodinâmica	termodinâmico	Gender=Fem|Number=Sing
@@ -67871,6 +68193,8 @@ terrais	terral	Gender=Neut|Number=Plur
 terral	terral	Gender=Neut|Number=Sing
 terraplanagem	terraplanagem	Gender=Fem|Number=Sing
 terraplanagens	terraplanagem	Gender=Fem|Number=Plur
+terraplanista	terraplanista	Gender=Neut|Number=Sing
+terraplanistas	terraplanista	Gender=Neut|Number=Plur
 terraplano	terraplano	Gender=Masc|Number=Sing
 terraplanos	terraplano	Gender=Masc|Number=Plur
 terraplenagem	terraplenagem	Gender=Masc|Number=Sing
@@ -67964,6 +68288,8 @@ testador	testador	Gender=Masc|Number=Sing
 testadora	testador	Gender=Fem|Number=Sing
 testadoras	testador	Gender=Fem|Number=Plur
 testadores	testador	Gender=Masc|Number=Plur
+testagem	testagem	Gender=Fem|Number=Sing
+testagens	testagem	Gender=Fem|Number=Plur
 testamenteira	testamenteiro	Gender=Fem|Number=Sing
 testamenteiras	testamenteiro	Gender=Fem|Number=Plur
 testamenteiro	testamenteiro	Gender=Masc|Number=Sing
@@ -68544,7 +68870,9 @@ todinhos	todinho	Gender=Masc|Number=Plur
 todo	todo	Gender=Masc|Number=Sing
 todos	todo	Gender=Masc|Number=Plur
 toga	toga	Gender=Fem|Number=Sing
+togada	togada	Gender=Fem|Number=Sing
 togada	togado	Gender=Fem|Number=Sing
+togadas	togada	Gender=Fem|Number=Plur
 togadas	togado	Gender=Fem|Number=Plur
 togado	togado	Gender=Masc|Number=Sing
 togados	togado	Gender=Masc|Number=Plur
@@ -68592,7 +68920,9 @@ tolos	tolo	Gender=Masc|Number=Plur
 tolueno	tolueno	Gender=Masc|Number=Sing
 toluenos	tolueno	Gender=Masc|Number=Plur
 tom	tom	Gender=Masc|Number=Sing
+tomada	tomada	Gender=Fem|Number=Sing
 tomada	tomado	Gender=Fem|Number=Sing
+tomadas	tomada	Gender=Fem|Number=Plur
 tomadas	tomado	Gender=Fem|Number=Plur
 tomado	tomado	Gender=Masc|Number=Sing
 tomador	tomador	Gender=Masc|Number=Sing
@@ -68768,6 +69098,8 @@ torniquete	torniquete	Gender=Masc|Number=Sing
 torniquetes	torniquete	Gender=Masc|Number=Plur
 torno	torno	Gender=Masc|Number=Sing
 tornos	torno	Gender=Masc|Number=Plur
+tornozeleira	tornozeleira	Gender=Fem|Number=Sing
+tornozeleiras	tornozeleira	Gender=Fem|Number=Plur
 tornozelo	tornozelo	Gender=Masc|Number=Sing
 tornozelos	tornozelo	Gender=Masc|Number=Plur
 toro	toro	Gender=Masc|Number=Sing
@@ -69381,7 +69713,9 @@ trasbordamento	trasbordamento	Gender=Masc|Number=Sing
 trasbordamentos	trasbordamento	Gender=Masc|Number=Plur
 trasbordo	trasbordo	Gender=Masc|Number=Sing
 trasbordos	trasbordo	Gender=Masc|Number=Plur
+traseira	traseira	Gender=Fem|Number=Sing
 traseira	traseiro	Gender=Fem|Number=Sing
+traseiras	traseira	Gender=Fem|Number=Plur
 traseiras	traseiro	Gender=Fem|Number=Plur
 traseiro	traseiro	Gender=Masc|Number=Sing
 traseiros	traseiro	Gender=Masc|Number=Plur
@@ -69747,6 +70081,8 @@ trilha	trilha	Gender=Fem|Number=Sing
 trilhas	trilha	Gender=Fem|Number=Plur
 trilho	trilho	Gender=Masc|Number=Sing
 trilhos	trilho	Gender=Masc|Number=Plur
+trilhão	trilhão	Gender=Masc|Number=Sing
+trilhões	trilhão	Gender=Masc|Number=Plur
 trilo	trilo	Gender=Masc|Number=Sing
 trilobita	trilobita	Gender=Fem|Number=Sing
 trilobitas	trilobita	Gender=Fem|Number=Plur
@@ -69917,6 +70253,7 @@ triângulo	triângulo	Gender=Masc|Number=Sing
 triângulos	triângulo	Gender=Masc|Number=Plur
 triênio	triênio	Gender=Masc|Number=Sing
 triênios	triênio	Gender=Masc|Number=Plur
+troca	troca	Gender=Fem|Number=Sing
 troca	troco	Gender=Fem|Number=Sing
 trocadilho	trocadilho	Gender=Masc|Number=Sing
 trocadilhos	trocadilho	Gender=Masc|Number=Plur
@@ -69926,6 +70263,7 @@ trocadora	trocador	Gender=Fem|Number=Sing
 trocadoras	trocador	Gender=Fem|Number=Plur
 trocadores	trocador	Gender=Masc|Number=Plur
 trocados	trocado	Gender=Masc|Number=Plur
+trocas	troca	Gender=Fem|Number=Plur
 trocas	troco	Gender=Fem|Number=Plur
 trocista	trocista	Gender=Neut|Number=Sing
 trocistas	trocista	Gender=Neut|Number=Plur
@@ -70448,7 +70786,9 @@ tâmara	tâmara	Gender=Fem|Number=Sing
 tâmaras	tâmara	Gender=Fem|Number=Plur
 tântalo	tântalo	Gender=Masc|Number=Sing
 tântalos	tântalo	Gender=Masc|Number=Plur
+técnica	técnica	Gender=Fem|Number=Sing
 técnica	técnico	Gender=Fem|Number=Sing
+técnicas	técnica	Gender=Fem|Number=Plur
 técnicas	técnico	Gender=Fem|Number=Plur
 técnico	técnico	Gender=Masc|Number=Sing
 técnicos	técnico	Gender=Masc|Number=Plur
@@ -71741,6 +72081,8 @@ vazões	vazão	Gender=Fem|Number=Plur
 vaçatunga	vaçatunga	Gender=Fem|Number=Sing
 vaçatungas	vaçatunga	Gender=Fem|Number=Plur
 veada	veado	Gender=Fem|Number=Sing
+veadagem	veadagem	Gender=Fem|Number=Sing
+veadagens	veadagem	Gender=Fem|Number=Plur
 veadas	veado	Gender=Fem|Number=Plur
 veadeiro	veadeiro	Gender=Masc|Number=Sing
 veadeiros	veadeiro	Gender=Masc|Number=Plur
@@ -71902,6 +72244,8 @@ vendição	vendição	Gender=Fem|Number=Sing
 vendições	vendição	Gender=Fem|Number=Plur
 vendola	vendola	Gender=Fem|Number=Sing
 vendolas	vendola	Gender=Fem|Number=Plur
+veneca	veneca	Gender=Neut|Number=Sing
+venecas	veneca	Gender=Neut|Number=Plur
 veneno	veneno	Gender=Masc|Number=Sing
 venenos	veneno	Gender=Masc|Number=Plur
 venera	venera	Gender=Fem|Number=Sing
@@ -71916,7 +72260,9 @@ veneração	veneração	Gender=Fem|Number=Sing
 venerações	veneração	Gender=Fem|Number=Plur
 veneta	veneta	Gender=Fem|Number=Sing
 venetas	veneta	Gender=Fem|Number=Plur
+veneziana	veneziana	Gender=Fem|Number=Sing
 veneziana	veneziano	Gender=Fem|Number=Sing
+venezianas	veneziana	Gender=Fem|Number=Plur
 venezianas	veneziano	Gender=Fem|Number=Plur
 veneziano	veneziano	Gender=Masc|Number=Sing
 venezianos	veneziano	Gender=Masc|Number=Plur
@@ -72336,6 +72682,8 @@ videogame	videogame	Gender=Masc|Number=Sing
 videogames	videogame	Gender=Masc|Number=Plur
 videojogo	videojogo	Gender=Masc|Number=Sing
 videojogos	videojogo	Gender=Masc|Number=Plur
+videokê	videokê	Gender=Masc|Number=Sing
+videokês	videokê	Gender=Masc|Number=Plur
 videopôquer	videopôquer	Gender=Masc|Number=Sing
 videopôqueres	videopôquer	Gender=Masc|Number=Plur
 videoteca	videoteca	Gender=Fem|Number=Sing
@@ -72568,11 +72916,15 @@ viperina	viperino	Gender=Fem|Number=Sing
 viperinas	viperino	Gender=Fem|Number=Plur
 viperino	viperino	Gender=Masc|Number=Sing
 viperinos	viperino	Gender=Masc|Number=Plur
+viperídeo	viperídeo	Gender=Masc|Number=Sing
+viperídeos	viperídeo	Gender=Masc|Number=Plur
 vips	vip	Gender=Neut|Number=Plur
 vira	vira	Gender=Neut|Number=Sing
 virabrequim	virabrequim	Gender=Masc|Number=Sing
 virabrequins	virabrequim	Gender=Masc|Number=Plur
+virada	virada	Gender=Fem|Number=Sing
 virada	virado	Gender=Fem|Number=Sing
+viradas	virada	Gender=Fem|Number=Plur
 viradas	virado	Gender=Fem|Number=Plur
 viradela	viradela	Gender=Fem|Number=Sing
 viradelas	viradela	Gender=Fem|Number=Plur
@@ -72590,6 +72942,8 @@ virago	virago	Gender=Neut|Number=Sing
 viragos	virago	Gender=Neut|Number=Plur
 virale	virale	Gender=Fem|Number=Sing
 virales	virale	Gender=Fem|Number=Plur
+viralização	viralização	Gender=Fem|Number=Sing
+viralizações	viralização	Gender=Fem|Number=Plur
 viramento	viramento	Gender=Masc|Number=Sing
 viramentos	viramento	Gender=Masc|Number=Plur
 viração	viração	Gender=Fem|Number=Sing
@@ -72722,6 +73076,8 @@ vitiligem	vitiligem	Gender=Fem|Number=Sing
 vitiligens	vitiligem	Gender=Fem|Number=Plur
 vitiligo	vitiligo	Gender=Masc|Number=Sing
 vitiligos	vitiligo	Gender=Masc|Number=Plur
+vitimização	vitimização	Gender=Fem|Number=Sing
+vitimizações	vitimização	Gender=Fem|Number=Plur
 vitivinicultura	vitivinicultura	Gender=Fem|Number=Sing
 vitiviniculturas	vitivinicultura	Gender=Fem|Number=Plur
 vitoriense	vitoriense	Gender=Neut|Number=Sing
@@ -72939,6 +73295,8 @@ vontade	vontade	Gender=Fem|Number=Sing
 vontades	vontade	Gender=Fem|Number=Plur
 vontadinha	vontadinho	Gender=Fem|Number=Sing
 vontadinhas	vontadinho	Gender=Fem|Number=Plur
+voo	voo	Gender=Masc|Number=Sing
+voos	voo	Gender=Masc|Number=Plur
 voracidade	voracidade	Gender=Fem|Number=Sing
 voracidades	voracidade	Gender=Fem|Number=Plur
 voragem	voragem	Gender=Fem|Number=Sing
@@ -73854,7 +74212,7 @@ yofortieritas	yofortierita	Gender=Fem|Number=Plur
 yokosukaíta	yokosukaíta	Gender=Fem|Number=Sing
 yokosukaítas	yokosukaíta	Gender=Fem|Number=Plur
 youtuber	youtuber	Gender=Neut|Number=Sing|Foreign=Yes
-youtubers	youtuber	Gender=Neut|Number=Plur|Foreign=Ye
+youtubers	youtuber	Gender=Neut|Number=Plur|Foreign=Yes
 yugawaralita	yugawaralita	Gender=Fem|Number=Sing
 yugawaralitas	yugawaralita	Gender=Fem|Number=Plur
 yuksporita	yuksporita	Gender=Fem|Number=Sing
@@ -74539,7 +74897,9 @@ zôos	zôo	Gender=Masc|Number=Plur
 ínguas	íngua	Gender=Fem|Number=Plur
 ínsula	ínsula	Gender=Fem|Number=Sing
 ínsulas	ínsula	Gender=Fem|Number=Plur
+íntegra	íntegra	Gender=Fem|Number=Sing
 íntegra	íntegro	Gender=Fem|Number=Sing
+íntegras	íntegra	Gender=Fem|Number=Plur
 íntegras	íntegro	Gender=Fem|Number=Plur
 íntegro	íntegro	Gender=Masc|Number=Sing
 íntegros	íntegro	Gender=Masc|Number=Plur
