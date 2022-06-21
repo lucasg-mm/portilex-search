@@ -20,7 +20,7 @@
       >
       <br />
       <br />
-      <span>Last updated: April-25-2022</span>
+      <span>Last updated: June-02-2022</span>
     </div>
   </div>
 </template>

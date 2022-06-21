@@ -17,7 +17,6 @@ as	o	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs
 as	o	Gender=Fem|Number=Plur|Person=3|PronType=Dem
 bulhufas	bulhufas	Gender=Masc|Number=Sing|PronType=Int
 cada	cada	Number=Sing|PronType=Ind
-como	como	Number=Inv|PronType=Rel
 demais	demais	Number=Plur|PronType=Ind
 diversos	diversos	Number=Plur|PronType=Ind
 ela	ele	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
@@ -44,13 +43,14 @@ lhes	lhe	Case=Dat|Number=Plur|Person=3|PronType=Prs
 lo	lo	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
 los	lo	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
 me	me	Case=Acc|Number=Sing|Person=1|PronType=Prs
+me	me	Case=Dat|Number=Sing|Person=1|PronType=Prs
 mesma	mesmo	Gender=Fem|Number=Sing|PronType=Dem
 mesmas	mesmo	Gender=Fem|Number=Plur|PronType=Dem
 mesmo	mesmo	Gender=Masc|Number=Sing|PronType=Dem
 mesmos	mesmo	Gender=Masc|Number=Plur|PronType=Dem
 meu	meu	Gender=Masc|Number=Sing|Person=1|PronType=Prs|Poss=Yes
 meus	meu	Gender=Masc|Number=Plur|Person=1|PronType=Prs|Poss=Yes
-mim	mim	Case=Acc|Number=Sing|Person=1|PronType=Prs
+mim	mim	Case=Dat|Number=Sing|Person=1|PronType=Prs
 minha	meu	Gender=Fem|Number=Sing|Person=1|PronType=Prs|Poss=Yes
 minhas	meu	Gender=Fem|Number=Plur|Person=1|PronType=Prs|Poss=Yes
 muita	muito	Gender=Fem|Number=Sing|PronType=Ind
@@ -70,6 +70,7 @@ nenhuma	nenhum	Gender=Fem|Number=Sing|PronType=Ind
 ninguém	ninguém	Number=Sing|PronType=Ind
 no	no	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
 nos	nos	Case=Acc|Number=Plur|Person=1|PronType=Prs
+nos	nos	Case=Dat|Number=Plur|Person=1|PronType=Prs
 nossa	nosso	Gender=Fem|Number=Sing|Person=1|PronType=Prs|Poss=Yes
 nossas	nosso	Gender=Fem|Number=Plur|Person=1|PronType=Prs|Poss=Yes
 nosso	nosso	Gender=Masc|Number=Sing|Person=1|PronType=Prs|Poss=Yes
@@ -78,7 +79,6 @@ nóis	nós	Case=Nom|Number=Plur|Person=2|PronType=Prs
 nós	nós	Case=Nom|Number=Plur|Person=1|PronType=Prs
 o	o	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
 o	o	Gender=Masc|Number=Sing|Person=3|PronType=Dem
-onde	onde	Number=Inv|PronType=Rel
 os	o	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
 os	o	Gender=Masc|Number=Plur|Person=3|PronType=Dem
 outra	outro	Gender=Fem|Number=Sing|PronType=Ind
@@ -105,10 +105,11 @@ próprias	próprio	Gender=Fem|Number=Plur|PronType=Dem
 próprio	próprio	Gender=Masc|Number=Sing|PronType=Dem
 próprios	próprio	Gender=Masc|Number=Plur|PronType=Dem
 quais	qual	Number=Plur|PronType=Int
+quais	qual	Number=Plur|PronType=Rel
 quaisquer	qualquer	Number=Plur|PronType=Ind
 qual	qual	Number=Sing|PronType=Int
+qual	qual	Number=Sing|PronType=Rel
 qualquer	qualquer	Number=Sing|PronType=Ind
-quando	quando	Number=Inv|PronType=Rel
 quanta	quanto	Gender=Fem|Number=Sing|PronType=Ind
 quanta	quanto	Gender=Fem|Number=Sing|PronType=Int
 quantas	quanto	Gender=Fem|Number=Plur|PronType=Ind
@@ -123,7 +124,9 @@ quem	quem	Number=Inv|PronType=Ind
 quem	quem	Number=Inv|PronType=Int
 quem	quem	Number=Inv|PronType=Rel
 quê	quê	Number=Inv|PronType=Int
-se	se	Case=Nom|Number=Inv|Person=3|PronType=Prs
+se	se	Case=Acc|Number=Plur|Person=3|PronType=Prs
+se	se	Case=Acc|Number=Sing|Person=3|PronType=Prs
+se	se	Case=Dat|Number=Sing|Person=3|PronType=Prs
 senhor	senhor	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs
 senhora	senhor	Case=Nom|Gender=Fem|Number=Sing|Person=2|PronType=Prs
 senhoras	senhor	Case=Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs
@@ -132,7 +135,7 @@ senhorita	senhorita	Case=Nom|Gender=Fem|Number=Sing|Person=2|PronType=Prs
 senhoritas	senhorita	Case=Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs
 seu	seu	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Poss=Yes
 seus	seu	Gender=Masc|Number=Plur|Person=3|PronType=Prs|Poss=Yes
-si	si	Case=Acc|Number=Inv|Person=3|PronType=Prs
+si	si	Case=Dat|Number=Sing|Person=3|PronType=Prs
 sua	seu	Gender=Fem|Number=Sing|Person=3|PronType=Prs|Poss=Yes
 suas	seu	Gender=Fem|Number=Plur|Person=3|PronType=Prs|Poss=Yes
 tais	tal	Number=Plur|PronType=Dem
@@ -144,9 +147,10 @@ tantas	tanto	Gender=Fem|Number=Plur|PronType=Ind
 tanto	tanto	Gender=Masc|Number=Sing|PronType=Ind
 tantos	tanto	Gender=Masc|Number=Plur|PronType=Ind
 te	te	Case=Acc|Number=Sing|Person=2|PronType=Prs
+te	te	Case=Dat|Number=Sing|Person=2|PronType=Prs
 teu	teu	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Poss=Yes
 teus	teu	Gender=Masc|Number=Plur|Person=2|PronType=Prs|Poss=Yes
-ti	ti	Case=Acc|Number=Sing|Person=2|PronType=Prs
+ti	ti	Case=Dat|Number=Sing|Person=2|PronType=Prs
 toda	todo	Gender=Fem|Number=Sing|PronType=Ind
 todas	todo	Gender=Fem|Number=Plur|PronType=Ind
 todo	todo	Gender=Masc|Number=Sing|PronType=Ind
@@ -162,6 +166,7 @@ uns	um	Gender=Masc|Number=Plur|PronType=Ind
 você	você	Case=Nom|Number=Sing|Person=2|PronType=Prs
 vocês	você	Case=Nom|Number=Plur|Person=2|PronType=Prs
 vos	vos	Case=Acc|Number=Plur|Person=2|PronType=Prs
+vos	vos	Case=Dat|Number=Plur|Person=2|PronType=Prs
 vosmecê	vosmecê	Number=Sing|Person=2|PronType=Prs
 vosmecês	vosmecê	Number=Plur|Person=2|PronType=Prs
 vossa	vosso	Gender=Fem|Number=Sing|Person=2|PronType=Prs|Poss=Yes
