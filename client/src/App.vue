@@ -28,13 +28,7 @@
                 <a href="https://universaldependencies.org/" target="_blank"
                   >Universal Dependencies</a
                 >
-                international model. The interested user may find more
-                information in the
-                <a
-                  href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.715.pdf"
-                  target="_blank"
-                  >paper of Lopes et al. (2022)</a
-                >. The lexicon is based on
+                international model. The lexicon is based on
                 <a
                   href="http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/index.html"
                   target="_blank"
@@ -46,7 +40,12 @@
                   target="_blank"
                   >POeTiSA</a
                 >
-                project.
+                project. The interested user may find more information in the
+                <a
+                  href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.715.pdf"
+                  target="_blank"
+                  >paper of Lopes et al. (2022)</a
+                >
               </div>
             </td>
           </tr>
